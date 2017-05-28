@@ -57,11 +57,11 @@ Hiszünk a legális munkavállalásban és téged is erre bíztatunk, hidd el ne
 * Adóbevallásban az adószakértőnk segítséget ad
 * mi van azzal, h nem dolgozhatsz ugyanannak a munkaltatonak kataval?
 
-### Diák vagy? {#id7}
-
-Ez még jobb hír, mert a KATA vállalkozóknak akik diákkal rendelkeznek csak havi 25 000 Ft
-
-Tudj meg többet a KATÁRÓL
+> ### Diák vagy? {#id7}
+>
+> Ez még jobb hír, mert a KATA vállalkozóknak akik diákkal rendelkeznek csak havi 25 000 Ft
+>
+> Tudj meg többet a KATÁRÓL
 
 **Ki lehet KATA adóalany?**  
 A KATA alanya lehet az egyéni vállalkozó, az egyéni cég, a kizárólag magánszemély taggal rendelkező betéti társaság, valamint a kizárólag magánszemély taggal rendelkező közkereseti társaság.
