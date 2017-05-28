@@ -1,6 +1,4 @@
-# Sendee docs
+# Sendee dokumentumok
 
-http://sendee.hu
-
-
+[http://sendee.hu](http://sendee.hu)
 
