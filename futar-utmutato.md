@@ -228,5 +228,5 @@ Az engedély iránti kérelmet személyesen szóban vagy írásban, továbbá po
 11. Nincsen semmi baj, ha nem sikerül kiszállítani egy címet, ilyenkor sikertelen kiszállítást kell beállítanod, és megírni hogy miért nem jött össze.
 12. Fontos, hogy tiszta és pontos leírást adj a sikertelen kiszállítás körülményeiről. Amennyiben ezt nem teszed meg a rendszer adott esetben rád terhelheti a kárt.
 
-
+\[\[toc\]\]
 
