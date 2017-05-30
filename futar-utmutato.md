@@ -1,12 +1,12 @@
-# Mire lesz szükséged? {#mire-lesz-szukseged}
+# Mire lesz szükséged?
 
-## Androidos telefon {#androidos-telefon}
+## Androidos telefon
 
 A napi munkához, címek fogadásához és az elszámoláshoz is a Sendee mobil appot fogjuk használni. Ebben folyamatosan követhetünk hogy hol jársz a városban \(ha valaki kérdezné hol vagy, mit csinálsz\) te pedig látod gyarapodni a heti fizetésed.
 
 Internet-előfizetéssel.
 
-## Erkölcsi bizonyítvány {#erkolcsi-bizonyitvany}
+## Erkölcsi bizonyítvány
 
 Nekünk is, és neked is fontos hogy ez egy megbízható munkahely legyen. Fontos a jó csapat, és fontos, hogy legyen egy tiszta erkölcsi bizonyítványod. Sok étteremmel vagyunk kapcsolatban, ezért ők is elvárják hogy az összes Sendee egyformán hozza az elvárt szintet.
 
@@ -21,7 +21,7 @@ Hogy szerezhetek erkölcsi bizonyítványt?
 
 A hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal illetékmentes. Az ötödik vagy efölötti számú kérelem esetén az általános mértékű közigazgatási eljárási illetéket kell megfizetni \(3000 Ft\).
 
-## Bankszámla {#bankszamla}
+## Bankszámla
 
 Ma már szinte mindenkinek van bankszámlaszáma, de ha mégsem lenne, segítünk nyitni neked.
 
@@ -41,7 +41,7 @@ A bankszámla nyitást csak személyesen lehet intézni, a Neked megfelelő bank
   * cégjegyzésre jogosulta személyazonosító okmánya
   * 30 napnál nem régebbi Cégkivonat \(vagy annak hiteles másolata\) vagy a bejegyzést tanúsító, 30 napnál nem régebbi elektronikus tanúsítvány
 
-## Adószám {#adoszam}
+## Adószám
 
 Hiszünk a legális munkavállalásban és téged is erre bíztatunk, hidd el nem lesz olyan bonyolult. Ha nincsen még vállalkozásod, vagy nem vagy magánvállalkozó a KATÁT ajánljuk. A KATA a kisadózó vállalkozások tételes adója, amelynek szabályait a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény tartalmaz.
 
@@ -57,11 +57,11 @@ Hiszünk a legális munkavállalásban és téged is erre bíztatunk, hidd el ne
 * Adóbevallásban az adószakértőnk segítséget ad
 * mi van azzal, h nem dolgozhatsz ugyanannak a munkaltatonak kataval?
 
-> ### Diák vagy? {#id7}
+> ### Diák vagy?
 >
 > Ez még jobb hír, mert a KATA vállalkozóknak akik diákkal rendelkeznek csak havi 25 000 Ft
->
-> Tudj meg többet a KATÁRÓL
+
+Tudj meg többet a KATÁRÓL
 
 **Ki lehet KATA adóalany?**  
 A KATA alanya lehet az egyéni vállalkozó, az egyéni cég, a kizárólag magánszemély taggal rendelkező betéti társaság, valamint a kizárólag magánszemély taggal rendelkező közkereseti társaság.
@@ -116,7 +116,7 @@ Természetesen szerződünk cégekkel is, ilyenkor
 * Ilyenkor a könyvelőddel a szokásos módon intézheted az adóbevallásod
 * Érdemes azonban átgondolni a kisadózói státusz által nyújtott rengeteg előnyt a meglévő céged tevékenység bővítése helyett
 
-## Egy kis elköteleződés {#egy-kis-elkotelezodes}
+## Egy kis elköteleződés
 
 * Szeretnénk, ha udvariasan beszélnél az ügyfelekkel, éttermekkel. Nekik is lehet rossz napjuk, neked is. Ha sok negatív visszajelzést kapunk rád, azt meg kell beszélnünk, ez akár hosszútávon azt is eredményezheti, hogy a felhasználói fiókod letiltásra kerül.
 * Szeretnénk, ha munkába rendes ruhában érkeznél, ha esik ha fúj akkor is.
@@ -124,7 +124,7 @@ Természetesen szerződünk cégekkel is, ilyenkor
   * A mindenkori KRESZ betartásáról reméljük nem kell külön beszélnünk, de ha lehet óvatosan közlekedj, és tartsd be a közlekedési szabályokat. Az alkohol és bármilyen más tiltott szer használata tiltott a rendszer használata közben, ennek nem betartása a profilod tiltását vonja maga után.
 * Kötetlen a munkaidőd, bármikor szerződést is bonthatunk ha mégsem jön be a közös munka.
 
-# Bejelentés {#bejelentes}
+# Bejelentés
 
 Ahhoz hogy hivatalosan is futárrá válhass néhány feltételnek meg kell hogy felelj, ezekben mindig segítünk, amit tudunk elintézünk mi magunk. Ezeket a papírokat személyesen kitöltjük majd, és elküldjük a megfelelő szerveknek.
 
@@ -154,11 +154,11 @@ Ha a kérelem, a kérelmező és a folytatni kívánt tevékenység is megfelel 
 
 Az engedély határozatlan időre - azaz visszavonásig - szól.
 
-# Jármű Tudnivalók {#jarmu-tudnivalok}
+# Jármű Tudnivalók
 
 A munkát biciklivel, autóval és segédmotoros kerékpárral is végezheted. Természetesen a jogosítványodnak \(és ezzel együtt a lakcímkártyádnak is\) mindig nálad kell lennie, és ezen felül a járművednek az alábbi papírokkal, valamint tartozékokkal kell rendelkeznie:
 
-## Motorosoknak {#motorosoknak}
+## Motorosoknak
 
 * A segédmotor tulajdonjogát vagy használati jogát biztosító okirat
 * elsősegélynyújtó felszerelés
@@ -166,7 +166,7 @@ A munkát biciklivel, autóval és segédmotoros kerékpárral is végezheted. T
 * Ételszállító doboz
   * Ha nincs ilyen pizzás dobozod, tudunk adni, ezt természetesen letörlesztheted vagy kifizetheted előre is
 
-## Autósoknak {#autosoknak}
+## Autósoknak
 
 * Érvényes forgalmi engedély
 * Igazolás a kötelező felelőssségbiztosítás befizetéséről
@@ -176,7 +176,7 @@ A munkát biciklivel, autóval és segédmotoros kerékpárral is végezheted. T
 * Hibátlan állapotú pótkerék
 * Ételszállító doboz
 
-## Bicikliseknek {#bicikliseknek}
+## Bicikliseknek
 
 * Bicajosként főként az ételszállító táska a fontos, ezt természetesen tudunk adni neked, amit később letörleszthetsz, vagy előre ki is fizetheted.
 * Természetesen a KRESZ szabályainak megfelelő megbízható bringa
@@ -186,15 +186,15 @@ A munkát biciklivel, autóval és segédmotoros kerékpárral is végezheted. T
   * fényvisszaverő ruházat \(lakott területen kívül, éjszaka vagy rossz látási viszonyok között\)
   * Lakat: egyetlen dolog amibe érdemes befektetned, az egy normális lakat. Napi 100x fogod lekötni a bringád, néha oszlopokhoz, kerítéshez, vagy bringatárolóba. Egy jó lakattal ez 1 másodperc meló, és nem utolsósorban nem lopják el olyan egyszerűen a munkaeszközöd.
 
-# Házhozszállítás engedélyezése {#hazhozszallitas-engedelyezese}
+# Házhozszállítás engedélyezése
 
-## A szolgáltatási tevékenység leírása {#a-szolgaltatasi-tevekenyseg-leirasa}
+## A szolgáltatási tevékenység leírása
 
 A szolgáltatási tevékenység vendéglátó-ipari termék, azaz étel, cukrászati, hidegkonyhai készítmény házhoz szállítva történő, végső fogyasztó számára, csomagküldő kereskedelem keretében történő értékesítését foglalja magában.
 
 A vendéglátó-ipari termék házhozszállítása a gazdasági tevékenységek egységes osztályozási rendszerében \(TEÁOR'08\) az 53 Postai, futárpostai tevékenység ágazatba, ezen belül az 53.2 Egyéb postai, futárpostai tevékenység alágazatba, valamint az 53.20 Egyéb postai, futárpostai tevékenység szakágazatba tartozik.
 
-## Az élelmiszer-vállalkozó kötelezettségei {#az-elelmiszer-vallalkozo-kotelezettsegei}
+## Az élelmiszer-vállalkozó kötelezettségei
 
 A házhozszállítást végző élelmiszer-vállalkozó működése során
 
@@ -203,13 +203,13 @@ A házhozszállítást végző élelmiszer-vállalkozó működése során
 * olyan önellenőrzési, minőségbiztosítási, nyomonkövetési, termék-visszahívási rendszereket vagy ilyen rendszerek olyan elemeit kell működtetni, amelyekkel biztosítható az élelmiszer biztonságossága, megfelelő minősége, azonosíthatósága és nyomon követhetősége;
 * az üzemelés teljes időtartama alatt jelen kell lennie egy - élelmiszer-biztonsági szaktudással rendelkező - azonnali intézkedésre feljogosított, felelős személynek.
 
-## A szolgáltatási tevékenység megkezdésével összefüggő eljárások {#a-szolgaltatasi-tevekenyseg-megkezdesevel-osszefuggo-eljarasok}
+## A szolgáltatási tevékenység megkezdésével összefüggő eljárások
 
 A vendéglátó-ipari termék házhozszállítása tekintetében az engedélyt kiadó; az engedéllyel rendelkező élelmiszer-vállalkozókról szóló nyilvántartást vezető; a vendéglátó-ipari termék házhozszállítását ellenőrző, valamint a vendéglátó-ipari termék házhozszállítása szolgáltatási tevékenység felügyeletét ellátó hatóságként a fővárosi, illetve megyei kormányhivatalnak az élelmiszer-vállalkozó székhelye szerint illetékes élelmiszerlánc-biztonsági és állat-egészségügyi igazgatósága, valamint a járási állat-egészségügyi hivatal \(a továbbiakban: élelmiszer-ellenőrző hivatal\) jár el.
 
 Az engedély iránti kérelmet személyesen szóban vagy írásban, továbbá postai úton írásban lehet benyújtani az élelmiszer-vállalkozó székhelye szerinti élelmiszer-ellenőrző hivatalnál.
 
-## Rendelések menete, rendelés feldolgozása {#rendelesek-menete-rendeles-feldolgozasa}
+## Rendelések menete, rendelés feldolgozása
 
 1. Az alkalmazás kezdőképernyőjén egyetlen gomb van, amivel ki-és bekapcsolhatod hogy éppen dolgozol-e.
 2. Ha aktív módba állítod magad, a rendszer azonnal elkezd veled is számolni, és a közelben lévő éttermekből keres neked munkát.
