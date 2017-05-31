@@ -1,6 +1,4 @@
-# Felhasználás és adatvédelem
-
-## Jogi és adatkezelési nyilatkozat
+# Jogi és adatkezelési nyilatkozat {#jogi}
 
 A www.sendee.hu weboldal elsődlegesen a „Sendee” futárszolgálat tevékenységének megismerését és népszerűsítését szolgálja, valamint a „Sendee” futárszolgálat által kínált szolgáltatások igénybevevői vagy aziránt érdeklődők, tájékozódni kívánok részére biztosít információt. A szolgáltató e körben fenntartja magának a jogot, hogy a weboldal egyes részei vagy funkciói kizárólag előzetes regisztrációt követően, a regisztrált felhasználók számára legyen elérhető.
 
@@ -16,7 +14,7 @@ A SENDEE Project Kft. kizárja felelősségét továbbá a weboldalon találhat�
 
 A honlapon található bármely anyag és/vagy tartalom felhasználása vonatkozásában az info@sendee.hu e-mail címen érdeklődhet.
 
-## A SENDEE védjegy
+## A SENDEE védjegy {#vedjegy}
 
 A „SENDEE” név és logó a SENDEE Project Kft. kizárólagos szellemi tulajdonát képező, bejegyzett védjegye. A védjegy felhasználásához a SENDEE Project Kft. cégjegyzésre jogosult képviselőjének előzetes, kifejezett írásbeli hozzájárulása szükséges, az abban foglalt tartalommal és terjedelemben. Kifejezett felhatalmazás hiányában tilos a védjegy másolása, rögzítése vagy bármely formában történő jogosulatlan felhasználása, és a felhasználó jogi felelősségét vonja maga után.
 
