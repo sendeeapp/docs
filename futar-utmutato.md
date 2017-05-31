@@ -61,7 +61,7 @@ Hiszünk a legális munkavállalásban és téged is erre bíztatunk, hidd el ne
 >
 > Ez még jobb hír, mert a KATA vállalkozóknak akik diákkal rendelkeznek csak havi 25 000 Ft
 
-Tudj meg többet a KATÁRÓL
+### Tudj meg többet a KATÁRÓL
 
 **Ki lehet KATA adóalany?**  
 A KATA alanya lehet az egyéni vállalkozó, az egyéni cég, a kizárólag magánszemély taggal rendelkező betéti társaság, valamint a kizárólag magánszemély taggal rendelkező közkereseti társaság.
