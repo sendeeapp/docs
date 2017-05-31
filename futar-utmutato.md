@@ -10,7 +10,7 @@ Internet-előfizetéssel.
 
 Nekünk is, és neked is fontos hogy ez egy megbízható munkahely legyen. Fontos a jó csapat, és fontos, hogy legyen egy tiszta erkölcsi bizonyítványod. Sok étteremmel vagyunk kapcsolatban, ezért ők is elvárják hogy az összes Sendee egyformán hozza az elvárt szintet.
 
-Hogy szerezhetek erkölcsi bizonyítványt?
+### Hogy szerezhetek erkölcsi bizonyítványt?
 
 2017-től a korábbiakhoz képest több helyen és módon is kérelmezhető a hatósági erkölcsi bizonyítvány, így személyesen, telefonon, a postákon kitöltött igénylőlappal valamint már interneten is lehet igényelni, ráadásul már költségvonzata sincs, így ingyen tudod kérni az alábbi módokon\[1\]:
 
@@ -27,7 +27,7 @@ Ma már szinte mindenkinek van bankszámlaszáma, de ha mégsem lenne, segítün
 
 A bankszámlaszám azért fontos, mert heti rendszerességgel ide fogod kapni a fizetésed, autómatikusan, annak megfelelően, mennyit dolgoztál. Rövidtávon ideiglenes megoldásként egyedi esetekben a csatlakozás első időszakában készpénzes kifizetés is megoldható.
 
-Hogyan nyithatok bankszámlaszámot?
+### Hogyan nyithatok bankszámlaszámot?
 
 A bankszámla nyitást csak személyesen lehet intézni, a Neked megfelelő bank kiválasztását követően. A számlanyitáshoz minden esetben kelleni fognak a személyazonosító okmányaid, így az érvényes személyi igazolványod és lakcímkártyád. Ezen felül – attól függően, hogy milyen minőségben szeretnél bankszámlát nyitni – az alábbi okiratokat vidd magaddal a bankba:
 
@@ -128,7 +128,7 @@ Természetesen szerződünk cégekkel is, ilyenkor
 
 Ahhoz hogy hivatalosan is futárrá válhass néhány feltételnek meg kell hogy felelj, ezekben mindig segítünk, amit tudunk elintézünk mi magunk. Ezeket a papírokat személyesen kitöltjük majd, és elküldjük a megfelelő szerveknek.
 
-A bejelentéshez szükséges feltételek
+## A bejelentéshez szükséges feltételek
 
 * a folytatni kívánt szolgáltatási tevékenység \(vendéglátó-ipari termék házhozszállítása\) engedélyezése iránti kifejezett kérelem,
 * a kereskedő \(élelmiszer-vállalkozó\) neve, címe, illetve székhelye,
