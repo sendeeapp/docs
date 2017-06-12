@@ -145,7 +145,7 @@ Ahhoz hogy hivatalosan is futárrá válhass, néhány feltételnek meg kell fel
 ### A bejelentéshez szükséges feltételek
 
 * A folytatni kívánt szolgáltatási tevékenység \(vendéglátó-ipari termék házhozszállítása\) engedélyezése iránti kifejezett kérelem
-* A kereskedő \(élelmiszer-vállalkozó\) neve, címe, illetve székhelye
+* A kereskedő (élelmiszer-vállalkozó) neve, címe, illetve székhelye
 * Ha a kérelmet képviselő útján nyújtja be: képviselője neve, székhelye
 * A kereskedő cégjegyzékszáma, az egyéni vállalkozó nyilvántartási száma
 * A kereskedő statisztikai számjele
@@ -168,7 +168,7 @@ Ha a kérelem, a kérelmező és a folytatni kívánt tevékenység is megfelel 
 
 Az engedély határozatlan időre – azaz visszavonásig – szól.
 
-# Jármű Tudnivalók
+# Jármű tudnivalók
 
 A munkát biciklivel, autóval és segédmotoros kerékpárral is végezheted. Természetesen a jogosítványodnak \(és ezzel együtt a lakcímkártyádnak is\) mindig nálad kell lennie, és ezen felül a járművednek az alábbi papírokkal, valamint tartozékokkal kell rendelkeznie.
 
@@ -196,31 +196,8 @@ A munkát biciklivel, autóval és segédmotoros kerékpárral is végezheted. T
   * Előre fehér, hátrafelé piros színű, folyamatos vagy villogó fényt adó lámpa
   * Piros színű hátsó fényvisszaverő prizma
   * Csengő
-* Fényvisszaverő ruházat \(lakott területen kívül, éjszaka vagy rossz látási viszonyok között\)
+  * Fényvisszaverő ruházat \(lakott területen kívül, éjszaka vagy rossz látási viszonyok között\)
 * Lakat: egyetlen dolog, amibe érdemes befektetned, az egy normális lakat. Napi százszor fogod lekötni a bringád, néha oszlopokhoz, kerítéshez vagy bringatárolóba. Egy jó lakattal ez 1 másodperc meló, és nem utolsósorban nem lopják el olyan egyszerűen a munkaeszközöd.
-
-# Házhozszállítás engedélyezése
-
-## A szolgáltatási tevékenység leírása
-
-A szolgáltatási tevékenység vendéglátó-ipari termék, azaz étel, cukrászati, hidegkonyhai készítmény házhoz szállítva történő, végső fogyasztó számára, csomagküldő kereskedelem keretében történő értékesítését foglalja magában.
-
-A vendéglátó-ipari termék házhozszállítása a gazdasági tevékenységek egységes osztályozási rendszerében \(TEÁOR'08\) az 53 Postai, futárpostai tevékenység ágazatba, ezen belül az 53.2 Egyéb postai, futárpostai tevékenység alágazatba, valamint az 53.20 Egyéb postai, futárpostai tevékenység szakágazatba tartozik.
-
-## Az élelmiszer-vállalkozó kötelezettségei
-
-A házhozszállítást végző élelmiszer-vállalkozó működése során
-
-* a külső és a belső környezetnek, az elhelyezésnek, az elrendezésnek, a méreteknek, a berendezéseknek, az eszközöknek, a technológiáknak, a termelési és tárolási kapacitásnak, a felhasznált élelmiszer, illetve élelmiszer-összetevők biztonságosságának, minőségének, az alkalmazott csomagolóanyagok és fertőtlenítőszerek megfelelőségének, illetve biztonságos alkalmazásának, az alkalmazott személyek egészségének, szakképesítésének, illetve szaktudásának alkalmasnak kell lennie az
-* élelmiszer-biztonsági és élelmiszer-minőségi előírások betartásának folyamatos garantálására;
-* olyan önellenőrzési, minőségbiztosítási, nyomonkövetési, termék-visszahívási rendszereket vagy ilyen rendszerek olyan elemeit kell működtetni, amelyekkel biztosítható az élelmiszer biztonságossága, megfelelő minősége, azonosíthatósága és nyomon követhetősége;
-* az üzemelés teljes időtartama alatt jelen kell lennie egy - élelmiszer-biztonsági szaktudással rendelkező - azonnali intézkedésre feljogosított, felelős személynek.
-
-## A szolgáltatási tevékenység megkezdésével összefüggő eljárások
-
-A vendéglátó-ipari termék házhozszállítása tekintetében az engedélyt kiadó; az engedéllyel rendelkező élelmiszer-vállalkozókról szóló nyilvántartást vezető; a vendéglátó-ipari termék házhozszállítását ellenőrző, valamint a vendéglátó-ipari termék házhozszállítása szolgáltatási tevékenység felügyeletét ellátó hatóságként a fővárosi, illetve megyei kormányhivatalnak az élelmiszer-vállalkozó székhelye szerint illetékes élelmiszerlánc-biztonsági és állat-egészségügyi igazgatósága, valamint a járási állat-egészségügyi hivatal \(a továbbiakban: élelmiszer-ellenőrző hivatal\) jár el.
-
-Az engedély iránti kérelmet személyesen szóban vagy írásban, továbbá postai úton írásban lehet benyújtani az élelmiszer-vállalkozó székhelye szerinti élelmiszer-ellenőrző hivatalnál.
 
 # Rendelések menete, rendelés feldolgozása
 
@@ -230,7 +207,7 @@ Azt említettük már az elején, hogy a munkához mindenre a Sendee mobil alkal
 2. Ha aktív módba állítod magad, a rendszer azonnal elkezd veled is számolni mint elérhető kiszállító, és a közelben lévő éttermekből keres neked munkát.
 3. Ha elfáradtál vagy épp ebédelni mész, kapcsold ki magad, bátran, bármikor. Csak tudjunk róla, hogy épp nem vagy elérhető.
 4. Az éttermek bármikor hívhatnak futárt, a szolgáltatást pont erre találtuk ki. Az éttermeknek a kiszállítási címet, árat és a megrendelő nevét és telefonszámát kell megadniuk. Emellett megkapod az étterem címét és elérhetőségeit is.
-5. Érdemes a napot 10 ezer Ft-tal kezdened \(különböző címletekben\), és legyen nálad váltópénz is, hogy simábban menjenek a dolgok.
+5. Érdemes a napot 10 ezer Ft-tal kezdened (különböző címletekben), és legyen nálad váltópénz is, hogy simábban menjenek a dolgok.
 6. Készpénzes rendelés esetén az étteremnél leadod a szállítandó csomag árát, amit majd a kiszállításkor a megrendelőtől fogsz visszakapni.
 7. Ha a rendelés bankkártyás volt, akkor nincs mit tenned, csak elhozod az étteremből a csomagot és már mehetsz is.
 8. A helyszíni bankkártyás fizetést nem támogatjuk, úgyhogy ilyen címet nem fogsz kapni.
