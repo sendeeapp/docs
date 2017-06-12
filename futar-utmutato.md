@@ -17,8 +17,8 @@ Nekünk is, és neked is fontos, hogy ez egy megbízható munkahely legyen. Font
 2017-től a korábbiakhoz képest több helyen és módon is kérelmezhető a hatósági erkölcsi bizonyítvány, így személyesen, telefonon, a postákon kitöltött igénylőlappal valamint már interneten is lehet igényelni, ráadásul már költségvonzata sincs, így ingyen tudod kérni az alábbi módokon.
 
 1. Személyesen a bűnügyi nyilvántartó szerv ügyfélszolgálatán, vagyis a 1097 Budapest IX. kerület, Vaskapu utca 30/A címen igényelhető erkölcsi bizonyítvány azzal, hogy előtte a 1818-as telefonszámon keresztül időpontot kell foglalni. A személyes ügyintézésre hétfőtől csütörtökig 8:00 és 16:30 között, pénteken 8:00 és 15:00 között van lehetőség.
-2. Benyújtható az erkölcsi bizonyítvány iránti kérelem postai úton is. Az igényléshez szükséges formanyomtatványt a postán kell kérni, és azt a Belügyminisztérium Bűnügyi Nyilvántartó Hatóság címére kell megküldeni \(1476 Budapest, Pf. 278\).
-3. Interneten keresztül akkor tudsz erkölcsi bizonyítványt igényelni, ha rendelkezel Ügyfélkapuval. Amennyiben még nincs Ügyfélkapu regisztrációd, úgy azt bármelyik okmányirodában vagy Kormányablakban tudod kezdeményezni szintén ingyen. Ha rendelkezel Ügyfélkapu regisztrációval, akkor az igénylést a[www.magyarorszag.hu](http://www.magyarorszag.hu)honlapon keresztül a bejelentkezést követően az “Elektronikusan intézhető ügyek” fül alatt az „Erkölcsi bizonyítvány igénylés – Webes ügysegéd” fülre kattintva teheted meg.
+2. Benyújtható az erkölcsi bizonyítvány iránti kérelem postai úton is. Az igényléshez szükséges formanyomtatványt a postán kell kérni, és azt a Belügyminisztérium Bűnügyi Nyilvántartó Hatóság címére kell megküldeni (1476 Budapest, Pf. 278).
+3. Interneten keresztül akkor tudsz erkölcsi bizonyítványt igényelni, ha rendelkezel Ügyfélkapuval. Amennyiben még nincs Ügyfélkapu regisztrációd, úgy azt bármelyik okmányirodában vagy Kormányablakban tudod kezdeményezni szintén ingyen. Ha rendelkezel Ügyfélkapu regisztrációval, akkor az igénylést a www.magyarorszag.hu honlapon keresztül a bejelentkezést követően az “Elektronikusan intézhető ügyek” fül alatt az „Erkölcsi bizonyítvány igénylés – Webes ügysegéd” fülre kattintva teheted meg.
 4. Telefonon keresztül az erkölcsi bizonyítvány a 1818-as Kormányzati Ügyfélvonalat tárcsázva igényelhetsz a Részleges Kódú Telefonos Azonosítás regisztrálást követően, amelyre személyesen bármelyik okmányirodában vagy Kormányablakban tudsz regisztrálni.
 
 A hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal illetékmentes. Az ötödik vagy efölötti számú kérelem esetén az általános mértékű közigazgatási eljárási illetéket kell megfizetni \(3000 Ft\).
@@ -32,7 +32,7 @@ Ma már szinte mindenkinek van bankszámlaszáma, de ha erre mégis szükséged 
 A bankszámla nyitást csak személyesen lehet intézni, a neked megfelelő bank kiválasztását követően. A számlanyitáshoz minden esetben kelleni fognak a személyazonosító okmányaid, így az érvényes személyi igazolványod és lakcímkártyád. Ezen felül – attól függően, hogy milyen minőségben szeretnél bankszámlát nyitni – az alábbi okiratokat vidd magaddal a bankba.
 
 * **Egyéni vállalkozóként:**
-  * Vállalkozói igazolvány vagy az EVIG \(egyéni vállalkozói igazolvánnyal rendelkező vállalkozók központi nyilvántartása\) által a nyilvántartába vételről adott igazolás, vagy a vállalkozási tevékenység végzését lehetővé tevő más okirat
+  * Vállalkozói igazolvány vagy az EVIG (egyéni vállalkozói igazolvánnyal rendelkező vállalkozók központi nyilvántartása) által a nyilvántartába vételről adott igazolás, vagy a vállalkozási tevékenység végzését lehetővé tevő más okirat
   * Nemzeti Adó- és Vámhivatalnál történt nyilvántartásba vételéről szóló okirat \(ha áfa fizetésére kötelezett az egyéni vállalkozó\)
   * Adószámot és/vagy statisztikai számjelet tartalmazó okirat, amennyiben az más dokumentumból nem derül ki
 * **Egyéni cégként/betéti társaságként/közkereseti társaságként:**
@@ -52,7 +52,7 @@ Hiszünk a legális munkavállalásban és téged is erre bíztatunk, hidd el, n
 * Bármikor, bármennyiszer szüneteltetheted, ha 2 hónap pihenésre vágysz.
 * Másnak is állíthatsz ki számlát, amennyiben más foglalkozást is űzöl.
 * Tartalmazza a TB \(Társadalombiztosítási\) díjad, így jár az ellátás minden SZTK-ban, ha beteg lennél.
-* ÁFA mentes \(alanyi adómentes\), azaz a teljes összeg, amit kiszámlázol, a tiéd, egyből a bankszámlaszámodra érkezhet.
+* ÁFA mentes (alanyi adómentes), azaz a teljes összeg, amit kiszámlázol, a tiéd, egyből a bankszámlaszámodra érkezhet.
 * Számlázz.hu-val digitálisan az interneten állíthatsz ki számlákat, nyomtató sem kell.
 * Adóbevallásban az adószakértőnk segítséget ad.
 
@@ -113,7 +113,7 @@ Alanyi adómentesség \(általános forgalmi adó megfizetése alóli mentesség
 
 **Mikor nem kell megfizetni a kisadózó után az adót?**
 
-Azon hónapokra vonatkozóan, amelyekegészébena kisadózó
+Azon hónapokra vonatkozóan, amelyek egészében a kisadózó
 
 * táppénzben, baleseti táppénzben, terhességi-gyerekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy ápolási díjban részesül,
 * katonai szolgálatot teljesítő önkéntes tartalékos katona,
