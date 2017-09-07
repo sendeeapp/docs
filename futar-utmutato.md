@@ -4,9 +4,9 @@
 
 A napi munkához, címek fogadásához és az elszámoláshoz is a Sendee mobil alkalmazást fogjuk használni, ami Androidos készülékekre érhető el.
 
-Ezen az appon keresztül tudsz megbízásokat fogadni, mi pedig pedig ennek segítségével tudunk betájolni téged folyamatosan a városban, így jelezve a rendszernek, hogy épp hol tartózkodsz, és az alapján melyik kiszállításokat lennének a legalkalmasabbak a számodra. A pozíciód azért is hasznos, mert így például az étterem egy vásárló kérdésére gyorsan meg tudja mondani, hogy mikorra számíthat az étel megérkezésére, és nem kell ezért téged hívnia, ezzel is feltartva téged a haladásban. Az alkalmazás segít abban is, hogy folyamatosan rögzíti neked a teljesített címeket és az ezekből származó keresetedet, így ezt nem kell külön vezetned.
+Ezen az appon keresztül tudsz megbízásokat fogadni, mi pedig ennek segítségével tudunk betájolni téged folyamatosan a városban, így jelezve a rendszernek, hogy épp hol tartózkodsz, és az alapján melyik kiszállításokat lennének a legalkalmasabbak a számodra. A pozíciód azért is hasznos, mert így például az étterem egy vásárló kérdésére gyorsan meg tudja mondani, hogy mikorra számíthat az étel megérkezésére, és nem kell ezért téged hívnia, ezzel is feltartva téged a haladásban. Az alkalmazás segít abban is, hogy folyamatosan rögzíti neked a teljesített címeket és az ezekből származó bevételedet, így ezt nem kell külön vezetned.
 
-Az alkalmazás úgy tudja mindezt nyújtani neked, nekünk és az éttermeknek egyaránt, ha folyamatosan kapcsolódni tud az internetre és eléri a GPS szerinti pozíciódat. Emiatt az Androidos mobilon felül élő mobilnet kapcsolatra is szükséged lesz.
+Az alkalmazás úgy tudja mindezt nyújtani neked, nekünk és az éttermeknek egyaránt, ha folyamatosan kapcsolódni tud az internetre és eléri a GPS szerinti pozíciódat. Emiatt az Androidos mobilon túlmenően élő mobilnet kapcsolatra is szükséged lesz.
 
 ## Erkölcsi bizonyítvány
 
@@ -17,7 +17,7 @@ Nekünk is, és neked is fontos, hogy ez egy megbízható munkahely legyen. Font
 2017-től a korábbiakhoz képest több helyen és módon is kérelmezhető a hatósági erkölcsi bizonyítvány, így személyesen, telefonon, a postákon kitöltött igénylőlappal valamint már interneten is lehet igényelni, ráadásul már költségvonzata sincs, így ingyen tudod kérni az alábbi módokon.
 
 1. Személyesen a bűnügyi nyilvántartó szerv ügyfélszolgálatán, vagyis a 1097 Budapest IX. kerület, Vaskapu utca 30/A címen igényelhető erkölcsi bizonyítvány azzal, hogy előtte a 1818-as telefonszámon keresztül időpontot kell foglalni. A személyes ügyintézésre hétfőtől csütörtökig 8:00 és 16:30 között, pénteken 8:00 és 15:00 között van lehetőség.
-2. Benyújtható az erkölcsi bizonyítvány iránti kérelem postai úton is. Az igényléshez szükséges formanyomtatványt a postán kell kérni, és azt a Belügyminisztérium Bűnügyi Nyilvántartó Hatóság címére kell megküldeni (1476 Budapest, Pf. 278).
+2. Benyújtható az erkölcsi bizonyítvány iránti kérelem postai úton is. Az igényléshez szükséges formanyomtatványt a postán kell kérni, és azt a Belügyminisztérium Bűnügyi Nyilvántartó Hatóság címére kell megküldeni \(1476 Budapest, Pf. 278\).
 3. Interneten keresztül akkor tudsz erkölcsi bizonyítványt igényelni, ha rendelkezel Ügyfélkapuval. Amennyiben még nincs Ügyfélkapu regisztrációd, úgy azt bármelyik okmányirodában vagy Kormányablakban tudod kezdeményezni szintén ingyen. Ha rendelkezel Ügyfélkapu regisztrációval, akkor az igénylést a www.magyarorszag.hu honlapon keresztül a bejelentkezést követően az “Elektronikusan intézhető ügyek” fül alatt az „Erkölcsi bizonyítvány igénylés – Webes ügysegéd” fülre kattintva teheted meg.
 4. Telefonon keresztül az erkölcsi bizonyítvány a 1818-as Kormányzati Ügyfélvonalat tárcsázva igényelhetsz a Részleges Kódú Telefonos Azonosítás regisztrálást követően, amelyre személyesen bármelyik okmányirodában vagy Kormányablakban tudsz regisztrálni.
 
@@ -25,25 +25,29 @@ A hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente n�
 
 ## Bankszámla
 
-Ma már szinte mindenkinek van bankszámlaszáma, de ha erre mégis szükséged lenne, akár mert a Sendee kerestedet szeretnéd egy külön számlára kérni, segítünk neked nyitni egyet. A bankszámlaszám azért fontos, mert heti rendszerességgel ide fogod kapni a fizetésed, automatikusan, annak megfelelően, mennyit dolgoztál. Rövid távon ideiglenes megoldásként egyedi esetekben a csatlakozás első időszakában készpénzes kifizetés is megoldható.
+Ma már szinte mindenkinek van bankszámlaszáma, de ha erre mégis szükséged lenne, akár mert a Sendee kerestedet szeretnéd egy külön számlára kérni, segítünk neked nyitni egyet. A bankszámlaszám azért fontos, mert heti rendszerességgel ide fogod kapni a fizetésed, automatikusan, annak megfelelően, mennyit dolgoztál. Rövid távon ideiglenes megoldásként egyedi esetekben a csatlakozás első időszakában készpénzes kifizetés is megoldható. 
 
 ### Hogyan nyithatok bankszámlaszámot?
 
-A bankszámla nyitást csak személyesen lehet intézni, a neked megfelelő bank kiválasztását követően. A számlanyitáshoz minden esetben kelleni fognak a személyazonosító okmányaid, így az érvényes személyi igazolványod és lakcímkártyád. Ezen felül – attól függően, hogy milyen minőségben szeretnél bankszámlát nyitni – az alábbi okiratokat vidd magaddal a bankba.
+A számlanyitáshoz – az érintett bank által a bankszámlanyitás feltételeként előírt egyéb dokumentumok bemutatása mellett –  kelleni fognak az alábbi okiratok:
 
-* **Egyéni vállalkozóként:**
-  * Vállalkozói igazolvány vagy az EVIG (egyéni vállalkozói igazolvánnyal rendelkező vállalkozók központi nyilvántartása) által a nyilvántartába vételről adott igazolás, vagy a vállalkozási tevékenység végzését lehetővé tevő más okirat
+* Egyéni vállalkozó esetén:
+  * Vállalkozói igazolvány vagy az EVIG \(egyéni vállalkozói igazolvánnyal rendelkező vállalkozók központi nyilvántartása\) által a nyilvántartába vételről adott igazolás, vagy a vállalkozási tevékenység végzését lehetővé tevő más okirat
   * Nemzeti Adó- és Vámhivatalnál történt nyilvántartásba vételéről szóló okirat \(ha áfa fizetésére kötelezett az egyéni vállalkozó\)
-  * Adószámot és/vagy statisztikai számjelet tartalmazó okirat, amennyiben az más dokumentumból nem derül ki
-* **Egyéni cégként/betéti társaságként/közkereseti társaságként:**
+  * Adószámot és/vagy statisztikai számjelet tartalmazó okirat, amennyiben az más dokumentumból nem derül ki 
+
+* Egyéni cégként/betéti társaságként/közkereseti társaság esetén:
+
   * Létesítő okirat \(alapító okirat vagy társasági szerződés\)
   * Cégjegyzésre jogosultak közjegyző által hitelesített aláírási címpéldánya vagy ügyvéd által ellenjegyzett aláírás-minta
   * Cégjegyzésre jogosult személyazonosító okmánya
   * 30 napnál nem régebbi cégkivonat \(vagy annak hiteles másolata\) vagy a bejegyzést tanúsító, 30 napnál nem régebbi elektronikus tanúsítvány
 
+A bankszámlanyitáshoz a vállalkozás képviselőjének személyesen meg kell jelennie a bankban, ezért a vállalkozásra vonatkozó okiratokon túlmenően szükséges a vállalkozás képviseletében személyesen eljáró személy személyazonosító okmányai, így az érvényes személyazonosító igazolvány és a lakcímkártya.
+
 ## Adószám
 
-Hiszünk a legális munkavállalásban és téged is erre bíztatunk, hidd el, nem lesz olyan bonyolult. Ha nincsen még vállalkozásod vagy nem vagy magánvállalkozó, a KATÁ-t ajánljuk. A KATA a kisadózó vállalkozások tételes adója, amelynek szabályait a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény tartalmazza.
+Hiszünk a legális és téged is erre bíztatunk, hidd el, nem lesz olyan bonyolult. A KATA a kisadózó vállalkozások tételes adója, amelynek szabályait a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény tartalmazza.
 
 ### KATA előnyei:
 
@@ -52,7 +56,7 @@ Hiszünk a legális munkavállalásban és téged is erre bíztatunk, hidd el, n
 * Bármikor, bármennyiszer szüneteltetheted, ha 2 hónap pihenésre vágysz.
 * Másnak is állíthatsz ki számlát, amennyiben más foglalkozást is űzöl.
 * Tartalmazza a TB \(Társadalombiztosítási\) díjad, így jár az ellátás minden SZTK-ban, ha beteg lennél.
-* ÁFA mentes (alanyi adómentes), azaz a teljes összeg, amit kiszámlázol, a tiéd, egyből a bankszámlaszámodra érkezhet.
+* ÁFA mentes \(alanyi adómentes\), azaz a teljes összeg, amit kiszámlázol, a tiéd, egyből a bankszámlaszámodra érkezhet
 * Számlázz.hu-val digitálisan az interneten állíthatsz ki számlákat, nyomtató sem kell.
 * Adóbevallásban az adószakértőnk segítséget ad.
 
@@ -132,10 +136,12 @@ A kisadózó vállalkozások tételes adója nem csak az adminisztrációs terhe
 
 Vannak olyan szempontok, amelyeket nem a törvény szabályoz, hanem mi szeretnénk a lehető legjobb minőségű szolgáltatást biztosítani, és ez nem menne nélküled, úgyhogy azt kérünk, hogy ezeket vedd figyelembe.
 
-* Szeretnénk, ha udvariasan beszélnél az ügyfelekkel, éttermekkel. Nekik is lehet rossz napjuk, neked is. Ha sok negatív visszajelzést kapunk rád, azt meg kell beszélnünk, és ez hosszútávon azt is eredményezheti, hogy a felhasználói fiókod letiltásra kerül.
-* Szeretnénk, ha munkába rendes ruhában érkeznél, ha esik ha fúj, akkor is.
-* Sajnos nem a legjobb a futárok reputációja általában, ne te legyél az, aki ész nélkül megy át a piroson, löki fel a gyalogosokat. Legyetek igényesek arra, amit és ahogy csináltok.
-* A mindenkori KRESZ betartásáról reméljük, nem kell külön beszélnünk, de kérünk, hogy óvatosan közlekedj, és tartsd be a közlekedési szabályokat. Az alkohol és bármilyen más tiltott szer hatása alatt lenni tiltott a rendszer használata közben, ennek nem betartása a profilod tiltását vonja maga után.
+* Szeretnénk, ha udvariasan beszélnél az ügyfelekkel, éttermekkel. Nekik is lehet rossz napjuk, neked is. Ha sok negatív visszajelzést kapunk rád, azt meg kell beszélnünk, és ez hosszútávon azt is eredményezheti, hogy a felhasználói fiókod letiltásra kerül. 
+* Szeretnénk, ha munkába rendes ruhában érkeznél, ha esik ha fúj, akkor is. 
+* Sajnos nem a legjobb a futárok reputációja általában, ne te legyél az, aki ész nélkül megy át a piroson, löki fel a gyalogosokat. Legyetek igényesek arra, amit és ahogy csináltok. 
+
+* A mindenkori KRESZ betartásáról reméljük, nem kell külön beszélnünk, de kérünk, hogy óvatosan közlekedj, és tartsd be a közlekedési szabályokat. Az alkohol és bármilyen más tiltott szer hatása alatt lenni tiltott a rendszer használata közben, ennek nem betartása a profilod tiltását vonja maga után. 
+
 * Kötetlen a munkaidőd, ami elsősorban neked adja meg azt a rugalmasságot és szabadságot, hogy akkor és annyit dolgozz, amikor és amennyit szeretnél. Ugyanakkor gondolj arra is, hogy ha huzamosabban problémák merülnek fel és nem működik a közös munka, akkor szerződést is bonthatunk veled. Fontos, hogy ez egyáltalán nem cél és jó megoldás, úgyhogy ehhez csak a legutolsó esetben szeretnénk folyamodni.
 
 # Bejelentés
@@ -145,14 +151,14 @@ Ahhoz hogy hivatalosan is futárrá válhass, néhány feltételnek meg kell fel
 ### A bejelentéshez szükséges feltételek
 
 * A folytatni kívánt szolgáltatási tevékenység \(vendéglátó-ipari termék házhozszállítása\) engedélyezése iránti kifejezett kérelem
-* A kereskedő (élelmiszer-vállalkozó) neve, címe, illetve székhelye
+* A kereskedő \(élelmiszer-vállalkozó\) neve, címe, illetve székhelye
 * Ha a kérelmet képviselő útján nyújtja be: képviselője neve, székhelye
 * A kereskedő cégjegyzékszáma, az egyéni vállalkozó nyilvántartási száma
 * A kereskedő statisztikai számjele
 * A működési terület jegyzéke, a működési területtel érintett települések, vagy – ha a tevékenység egy vagy több egész megyére vagy az ország egészére kiterjed – a megyék, illetve az országos jelleg megjelölése
 * A kereskedelmi tevékenység helye szerinti bontásban a folytatni kívánt kereskedelmi tevékenység formája \(csomagküldő kereskedelem\)
 * Az egyes kereskedelmi helyek szerinti bontásban a forgalmazni kívánt termékek megnevezése és sorszáma \(1.1. Meleg-, hideg étel\)
-* A folytatni kívánt kereskedelmi tevékenység jellege \(kiskereskedelem\)
+* A folytatni kívánt kereskedelmi tevékenység jellege \(kiskereskedelem\) 
 
 A kérelemhez csatolni kell az igazgatási szolgáltatási díj megfizetését igazoló dokumentum \(banki átutalásról kiállított igazolás vagy csekkszelvény\) másolatát.
 
@@ -170,14 +176,14 @@ Az engedély határozatlan időre – azaz visszavonásig – szól.
 
 # Jármű tudnivalók
 
-A munkát biciklivel, autóval és segédmotoros kerékpárral is végezheted. Természetesen a jogosítványodnak \(és ezzel együtt a lakcímkártyádnak is\) mindig nálad kell lennie, és ezen felül a járművednek az alábbi papírokkal, valamint tartozékokkal kell rendelkeznie.
+A kiszállítások biciklivel, autóval és segédmotoros kerékpárral is végezhetőek. Természetesen a jogosítványnak \(és ezzel együtt a lakcímkártyának is\) mindig a futárnál kell lennie, és ezen felül a járműnek az alábbi papírokkal, valamint tartozékokkal kell rendelkeznie.
 
 ## Motorosoknak
 
 * A segédmotor tulajdonjogát vagy használati jogát biztosító okirat
 * Elsősegélynyújtó felszerelés
 * A külső zajra \(elhaladási zaj\), valamint a hajtómotor kipufogógáz szennyezőanyag-tartalmára vonatkozó jóváhagyási jel
-* Ételszállító doboz \(ha nincs ilyen “pizzás dobozod”, tudunk adni, amit később letörleszthetsz, de persze kifizetheted előre is\)
+* Ételszállító doboz
 
 ## Autósoknak
 
@@ -191,28 +197,31 @@ A munkát biciklivel, autóval és segédmotoros kerékpárral is végezheted. T
 
 ## Bicikliseknek
 
-* Bicajosként főként az ételszállító táska a fontos, ezt tudunk adni neked, amit később letörleszthetsz, de persze kifizetheted előre is.
+* Bicajosként főként az ételszállító táska a fontos
 * A KRESZ szabályainak megfelelő, megbízható bringa és felszerelés:
   * Előre fehér, hátrafelé piros színű, folyamatos vagy villogó fényt adó lámpa
   * Piros színű hátsó fényvisszaverő prizma
   * Csengő
   * Fényvisszaverő ruházat \(lakott területen kívül, éjszaka vagy rossz látási viszonyok között\)
-* Lakat: egyetlen dolog, amibe érdemes befektetned, az egy normális lakat. Napi százszor fogod lekötni a bringád, néha oszlopokhoz, kerítéshez vagy bringatárolóba. Egy jó lakattal ez 1 másodperc meló, és nem utolsósorban nem lopják el olyan egyszerűen a munkaeszközöd.
+* Lakat
 
 # Rendelések menete, rendelés feldolgozása
 
-Azt említettük már az elején, hogy a munkához mindenre a Sendee mobil alkalmazását fogjuk használni. Az alábbiakban a rendelés menetét igyekszünk összefoglalni, hogy lásd, hogyan zajlik majd egy kiszállítás a mobil app segítségével.
+Azt említettük már az elején, hogy a kiszállítások megrendelésével és teljesítésével kapcsolatosan mindenre a Sendee mobil alkalmazását fogjuk használni. Az alábbiakban a rendelés menetét igyekszünk összefoglalni, hogy lásd, hogyan zajlik majd egy kiszállítás a mobil app segítségével.
 
-1. Az alkalmazás kezdőképernyőjén egy kapcsolóval tudod állítani, hogy éppen dolgozol-e.
-2. Ha aktív módba állítod magad, a rendszer azonnal elkezd veled is számolni mint elérhető kiszállító, és a közelben lévő éttermekből keres neked munkát.
-3. Ha elfáradtál vagy épp ebédelni mész, kapcsold ki magad, bátran, bármikor. Csak tudjunk róla, hogy épp nem vagy elérhető.
-4. Az éttermek bármikor hívhatnak futárt, a szolgáltatást pont erre találtuk ki. Az éttermeknek a kiszállítási címet, árat és a megrendelő nevét és telefonszámát kell megadniuk. Emellett megkapod az étterem címét és elérhetőségeit is.
-5. Érdemes a napot 10 ezer Ft-tal kezdened (különböző címletekben), és legyen nálad váltópénz is, hogy simábban menjenek a dolgok.
-6. Készpénzes rendelés esetén az étteremnél leadod a szállítandó csomag árát, amit majd a kiszállításkor a megrendelőtől fogsz visszakapni.
-7. Ha a rendelés bankkártyás volt, akkor nincs mit tenned, csak elhozod az étteremből a csomagot és már mehetsz is.
-8. A helyszíni bankkártyás fizetést nem támogatjuk, úgyhogy ilyen címet nem fogsz kapni.
-9. Minden alkalommal ellenőrizd tételesen, milyen csomag van nálad, mielőtt elindulnál az étteremtől! Mindig jobb ha egy-két percet késel, mert mindent alaposan átnéztél, mint hogy a címen vegyétek észre, hogy lemaradt egy somlói, és emiatt kelljen plusz egy kört menned.
-10. Ha kiszállítottál egy címet, az alkalmazásban egy gomb megnyomásával jelezheted, hogy készen vagy, így az étterem is követni tudja, hogy melyik kiszállítás történt már meg, és mikor jöhet a következő cím.
-11. Ha valami probléma merülne fel, az alkalmazásban minden telefonszám elérhető. Az étterem, a címzett, legrosszabb esetben a Sendee központ telefonszáma.
-12. Ha nem sikerül kiszállítani egy címet, semmi pánik, a legfontosabb, hogy megoldjuk a helyzetet, és tudjunk róla, hogy mi történt. Ilyenkor sikertelen kiszállítást kell beállítanod, és megírni hogy miért nem jött össze. Fontos, hogy pontos leírást adj a sikertelen kiszállítás körülményeiről. Amennyiben ezt nem teszed meg, és emiatt nem tudjuk pontosan felderíteni a probléma okát, a rendszer adott esetben rád terhelheti a kárt.
-13. A kiszállítás végeztével újra elérhetővé válasz a rendszer számára, amely rögtön számol veled a beérkező újabb megrendeléseknél.
+1. Az alkalmazás kezdőképernyőjén a futár egy kapcsolóval tudja állítani, hogy éppen elérhető-e.
+2. Ha a futár aktív módba állítja magát, a rendszer azonnal elkezd vele is számolni mint elérhető kiszállítóval, és elsősorban a közelben lévő ügyfelektől érkező megrendeléseket fogja felajánlani a részére.
+3. A futár bármikor kikapcsolhatja az applikációt, azaz passzív módba állíthatja magát. Ebben az esetben a rendszer a részére nem ajánl fel kiszállítási megrendeléseket. 
+4. Az ügyfelek bármikor hívhatnak futárt, a szolgáltatást pont erre találtuk ki. Az ügyfeleknek a kiszállítási címet, árat és a címzett nevét és telefonszámát kell megadniuk. Emellett a rendszer rögzíti az ügyfél címét és elérhetőségeit is.
+5. Készpénzes rendelés esetén az étteremnél leadod a szállítandó csomag árát, amit majd a kiszállításkor a megrendelőtől fogsz visszakapni.
+6. Ha a rendelés bankkártyás volt, akkor nincs mit tenned, csak elhozod az étteremből a csomagot és már mehetsz is.
+7. A futárnak a csomag átvételekor minden alkalommal ellenőriznie kell tételesen, mi a feladott csomag   tartalma mivel ennek elmaradása ismételt kiszállítást tehet szükségessé! .
+8. Akiszállítottás teljesítését – azaz a feladott csomag címzett részére történt átadását –  a futár az alkalmazásban egy gomb megnyomásával jelzi, így a megrendelő is követni tudja, hogy melyik kiszállítás történt már meg, és mikor várható a következő kiszállítás teljesítése .
+9. Ha valami probléma merülne fel, az alkalmazásban minden telefonszám elérhető. A megrendelő, a címzett, legrosszabb esetben a Sendee központ telefonszáma.
+10. Ha nem sikerül kiszállítani egy címet, a legfontosabb, hogy megoldjuk a helyzetet, és tudjunk róla, hogy mi történt. Ilyenkor a futárnak sikertelen kiszállítást  kell jeleznie a rendszerben, és rögzítenie kell, hogy miért hiúsult meg a kiszállítás. Fontos, hogy a futár pontos leírást adjon a sikertelen kiszállítás körülményeiről. Amennyiben ezt nem teszi meg, és emiatt nem tudjuk pontosan felderíteni a probléma okát, a rendszer adott esetben átháríthatja  a kárt.
+11. A kiszállítás végeztével a futár újra elérhetővé válik a rendszer számára a beérkező újabb megrendeléseknél.
+
+
+
+
+
