@@ -102,6 +102,7 @@ Amennyiben az Eseti megrendelés keretében Ügyfél olyan csomagot kíván tov�
 ## A szállítandó csomagra vonatkozó feltételek
 
 Kizárt a szolgáltatásból, ezért nem adható fel, illetve szállításra nem vehető át az a csomag amely/amelynek:
+
 - birtoklását, szállítását jogszabály tiltja vagy engedélyhez köti,
 - gyúlékony, tűzveszélyes anyagokat tartalmaz,
 - sérti, sértheti, veszélyezteti vagy veszélyeztetheti az életet, egészséget, testi épséget vagy a környezetet,
@@ -117,3 +118,97 @@ Az Ügyfél a címzést a csomagon úgy köteles elhelyezni, hogy az tisztán l�
 
 Az szállítandó csomag megfelelő becsomagolásáért az Ügyfél felelős. Ügyfél a szállítandó csomagot megfelelően lezárva, a csomag tartalmát megfelelően védve köteles átadni a Futár részére. A csomagolásnak olyannak kell lennie, hogy az biztosítsa a csomag tartalma minőségének megőrzését a szállítás során, védje a csomag tartalmát a kiszállítás során szokásosan felmerülő esetleges sérülésekkel szemben is, továbbá biztosítania kell, hogy a küldemény ne tegyen kárt a szállítóeszközben, illetve ne veszélyeztesse a Futár testi épségét, egészségét. Futár a csomag átvételét mindaddig megtagadhatja, ha annak csomagolása nem felel meg a csomag biztonságos továbbításához szükséges követelményeknek. A csomag átvételének a csomagolás hiányosságai miatt történő megtagadása nem mentesíti az Ügyfelet a vállalkozói díj megfizetésének kötelezettsége alól.
 
+A Futár a csomagot annak tartalma ellenőrzése nélkül veszi át az Ügyféltől és annak tartalma ellenőrzése nélkül szolgáltatja ki a címzettnek. A címzett a csomag tartalmát az átvételt követően, utánvétes csomag esetén az ellenérték megfizetését követően ellenőrizheti.
+
+## A Visszaigazolás
+
+A Futár a SENDEE rendszerben aktív és passzív státusszal rendelkezhet. Visszaigazolást a Futár kizárólag aktív státuszban rögzíthet a rendszerben. A Futár aktív státuszát bármikor jogosult megváltoztatni passzív státuszra, amely azonban a korábban rögzített Visszaigazolások hatályát és teljesítési kötelezettségét nem érinti.
+
+Az Eseti megrendelést a SENDEE rendszer annak az aktív státuszú Futárnak ajánlja fel elfogadásra a SENDEE applikáción keresztül, amely a legjobb feltételekkel rendelkezik az adott Eseti megrendelés teljesítése tekintetében. A Futár az Eseti megrendelést a SENDEE applikáción keresztül fogadja el, amely az adott Eseti megrendelés Visszaigazolásának minősül.
+
+Az Ügyfél tudomásul veszi, hogy a Futár nem köteles a felajánlott Eseti megrendelést elfogadni, ennek megfelelően SENDEE nem vállal kötelezettséget az Eseti megrendelés Visszaigazolására és ezáltal teljesítésére, vagy arra, hogy az adott Eseti megrendelés teljesítésére a teljesítéshez leginkább megfelelő Futár közreműködésével kerül sor.
+
+A Visszaigazolás Futár általi, SENDEE applikációban történő rögzítése egyúttal az adott Eseti megrendelés teljesítésére vonatkozó kötelezettségvállalást eredményez SENDEE részéről az Ügyfél irányában, és az Ügyfél és SENDEE között létrehozza az Eseti megrendelésnek megfelelő tartalmú Eseti szállítási szerződést. 
+
+A Visszaigazolás Futár általi, SENDEE applikációban történő rögzítése egyúttal azt is jelenti, hogy a Futár SENDEE felé kötelezettséget vállalt az adott Eseti megrendelés teljesítésére, és a Futár és SENDEE között létrehozza az Eseti megrendelésnek megfelelő tartalmú Eseti szállítási szerződést.
+
+A Visszaigazolás SENDEE rendszerben történt megjelenését követően az Eseti megrendelés nem vonható vissza. A Visszaigazolás rögzítését követően az Ügyfél akkor is köteles az Eseti megrendelésben rögzített feltételeknek megfelelően kiszámított díjat SENDEE részére megfizetni, amennyiben a tényleges kiszállítás az Ügyfél érdekkörében felmerült bármely okból elmarad. 
+
+A Visszaigazolás Futár által történő visszavonására nincs lehetőség. Amennyiben Futár az Eseti szállítási szerződés teljesítése tekintetében elháríthatatlan külső körülmény által akadályoztatva van, ezt köteles SENDEE részére haladéktalanul jelezni, aki jogosult a Futár Visszaigazolását törölni és az Eseti megrendelést más Futár számára elérhetővé tenni.
+
+## Az csomag feladása
+
+Az Ügyfél a szállítandó csomagot közvetlenül az Eseti megrendelést visszaigazoló Futár részére köteles átadni. Az Ügyfél köteles meggyőződni arról, hogy a Futár azonos a Visszaigazolást rögzítő Futárral. A csomag átvételét a Futár a SENDEE applikációban annak megtörténtekor rögzíti.
+
+Az Ügyfél felel azért, hogy a Futár részére átadott csomag megfelel az Eseti megrendelésben rögzített tartalomnak. A Futár nem köteles a szállítandó csomagot átvenni, ha az nem egyezik az Eseti megrendelésben, vagy az általa nem szállítható el (pl. annak mérete, tartalma vagy bármely más ok miatt, ide nem értve azt az esetet, ha a csomag ki van zárva a szolgáltatásból). A csomag átvételének ezen okból történő akadályoztatása esetén Futár köteles SENDEE-vel egyeztetni, aki a szállítás feltételeit az Ügyféllel egyezteti, és azt esetleges többletdíj (pl. további Futár igénybevétele) megfizetésétől teheti függővé. Amennyiben a csomag nem felel meg a jelen ÁSZF-ben foglalt követelményeknek vagy a jogszabályi előírásoknak, a Futár köteles a csomag átvételét megtagadni; az ebből eredő minden többletköltség és kár Ügyfelet terheli.
+
+Az Ügyfél a csomag átadásakor köteles felhívni a Futár figyelmét arra, amennyiben a csomag továbbítása a szokásostól eltérő kezelést igényel. Ennek elmulasztásából eredő minden kárért Ügyfél felel. 
+
+A csomag tartalmáért és a csomagolás bármilyen hiányosságáért kizárólag az Ügyfelet terheli felelősség, e tekintetben SENDEE mindennemű felelősségét kizárja. 
+
+## A csomag kiszállítása
+
+A Futár a kiszállítás során a csomagolást semmilyen körülmények között nem bonthatja meg, vagy nem bonthatja ki, köteles a kiszállítás során a csomag épségét megóvni. 
+
+A csomag kiszállítása Futár kötelezettsége, aki köteles a szállítást a lehetőség szerinti legrövidebb útvonalon és legrövidebb időn belül teljesíteni, indokolatlan megszakítás vagy megállás nélkül, és a csomagot az Ügyfél által megadott címen a címzett részére kiszolgáltatni. Futár teljeskörű felelősséggel tartozik SENDEE irányában azért, ha az Eseti szállítási szerződés teljesítése azért szenved késedelmet, mert Futár nem tartotta be a jelen pontban foglalt kötelezettségeit. 
+
+Mindemellett Ügyfél tudomásul veszi, hogy a szállítás meghatározott útvonalon vagy meghatározott határidőben történő teljesítése a közlekedési adottságoktól függ, ezért elfogadja, hogy SENDEE nem vállal kötelezettséget a kiszállítás meghatározott útvonalon történő teljesítésére, vagy a csomag meghatározott időpontban vagy határidőn belül történő átadására. 
+
+A szállítási cím minden esetben az Ügyfél által az Eseti megrendelés leadása során a SENDEE rendszerben rögzített szállítási cím. A szállítási címet az Ügyfél a Futár részére átadott csomagon is köteles feltüntetni. Ügyfél a szállítási címet mindaddig módosíthatja, illetve a csomagot visszakérheti, amíg a csomag a címzett részére kiszolgáltatásra nem kerül, köteles azonban az ezzel összefüggésben felmerült többlet díjakat SENDEE részére megfizetni.
+
+Ügyfél tudomásul veszi és elfogadja, hogy – a SENDEE applikáción mindenkor elérhető funkciók függvényében – a szállítási szolgáltatás igénybevétele után a Futár és/vagy a címzett jogosult lehet az Ügyfél eljárásnak (magatartásának) értékelésére a SENDEE applikáción keresztül, illetve megjegyzést fűzhet ahhoz. Ezzel összhangban – a SENDEE applikáción mindenkor elérhető funkciók függvényében – a Futár értékelheti az Ügyfelet. Ennek célja, hogy a SENDEE applikáción keresztül bonyolított szállítási szolgáltatások a lehető legmagasabb színvonalon kerüljenek nyújtásra, valamennyi részes fél legnagyobb megelégedésére.
+
+SENDEE bármikor jogosult olyan értékelési rendszert bevezetni és fenntartani, illetve azt felfüggeszteni vagy megszüntetni, amellyel meghatároz olyan minimális átlagos értékelési szintet, amelynek meghaladása előfeltétele a SENDEE rendszer igénybevételének. Amennyiben az Ügyfél ezt a szintet nem haladja meg, az kifejezetten indokot szolgáltathat Ügyfél SENDEE rendszerhez való hozzáférése felfüggesztésének az arra vonatkozó szabályok szerint. 
+
+## A csomag kézbesítése
+
+A csomag címzett részére történő kézbesítését a Futár a SENDEE applikáción keresztül jelzi („csomag leszállítva” gombbal). Ezzel a szállítási szolgáltatás teljesítettnek tekintendő.
+
+A Futár a csomagot kizárólag a SENDEE rendszerben rögzített címzett részére, vagy az alábbi személyek részére szolgáltatja ki:
+
+- ha a kézbesítési cím lakóhely, az ingatlan tulajdonosa vagy bérlője,
+- ha a kézbesítési cím munkahely, a munkahelyen küldemények átvételére feljogosított személy (pl. recepciós).
+
+Amennyiben a címzettnek a csomag kiszolgáltatásakor mennyiségi vagy minőségi kifogása van, ezt a Futár a rögzíti a SENDEE rendszerben, a csomagot nem adja át a címzett részére, és a kiszállítás kézbesíthetetlennek minősül. A címzett kifogásait kizárólag az Ügyféllel köteles egyeztetni, a csomag Futár által történt kibontásának esetét ide nem értve a Futár, illetve SENDEE a csomag címzett által elvárt tartalmáért semmilyen felelősséggel nem tartozik.
+
+Amennyiben a csomag a címzett részére bármely okból – ideértve a fenti pontban megjelölt okot is – nem kézbesíthető, a csomag az Ügyfél rendelkezése szerint visszaszállításra kerül az Ügyfél részére a SENDEE rendszerben rögzített feladási címre, a vonatkozó vállalkozói díj Ügyfél által történő megfizetése esetén. Amennyiben az Ügyfél a csomag visszaszállítását nem kéri, SENDEE a csomag őrzésére romlandó tartalmak esetén nem köteles, és jogosult azt megsemmisíteni. A nem romlandó dolgok megőrzésére a jogszabályok rendelkezései irányadóak. A fentiek nem mentesítik az Ügyfelet a vállalkozói díj megfizetései alól.
+
+## Utánvétes csomagra vonatkozó eltérő rendelkezések
+
+Amennyiben az Ügyfél olyan csomag tekintetében kívánja igénybe venni a SENDEE szolgáltatását, amely csomag ellenértékét a címzett a csomag kézbesítésekor fizeti meg, ezt az Ügyfél az Eseti megrendelés rögzítésekor köteles a SENDEE rendszerben feltüntetni, az ellenérték rögzítésével egyidejűleg. A félreértések elkerülése érdekében az utánvét lehetősége kizárólag a csomag ellenértékének megfizetésére vonatkozik, a SENDEE szolgáltatása után járó vállalkozói díjat minden esetben az Ügyfél köteles megfizetni.
+
+Utánvétes csomag esetén a Futár a csomag címzett részére történő átadásakor köteles a csomag SENDEE rendszerben rögzített ellenértékét a címzettől átvenni, és az átvett összeget köteles haladéktalanul az Ügyfél részére a SENDEE rendszerben rögzített feladási helyre visszavinni, és az Ügyfélnek átadni. 
+
+A Futár fenti kötelezettségének biztosítására Futár a SENDEE nevében a kiszállítandó csomag SENDEE rendszerben rögzített ellenértékének megfelelő összegű biztosítékot (óvadékot) ad át az Ügyfél részére. Az Ügyfél a biztosítékként letett összeget köteles a Futár részére haladéktalanul visszaadni, amennyiben a Futár a kiszállított csomag ellenértékének Ügyfél részére történő visszaszállítására és átadására vonatkozó kötelezettségének eleget tett. A Futár a letett biztosítékot a SENDEE nevében veszi át és tartja magánál. Amennyiben a Futár nem tesz eleget a kiszállított csomag ellenértékének Ügyfél részére történő visszaszállítására és átadására vonatkozó kötelezettségének, az Ügyfél jogosult az ezzel részére okozott károkat a letett biztosíték összegéből kielégíteni. 
+
+A Futár a csomagot nem adja át a címzett részére, amennyiben a címzett az ellenérték megfizetését megtagadja. Ebben az esetben, továbbá abban az esetben, ha az utánvétes csomag Eseti megrendelésben rögzítettek szerinti kézbesítése bármely egyéb, a SENDEE-nek vagy a Futárnak nem felróható okból nem lehetséges, a biztosítékként letett összeg a SENDEE-t illeti meg, amelyet az Ügyfél köteles a SENDEE részére visszafizetni. 
+
+# Vállalkozói díj, fizetési feltételek
+
+A szállítási szolgáltatás teljesítésével Ügyfél SENDEE részére, valamint SENDEE Futár részére vállalkozói díjat tartozik fizetni.
+
+A vállalkozói díj számítása minden esetben alapdíj és kilométerdíj figyelembevételével történik, a SENDEE által alkalmazott és közzétett mindenkor hatályos díjszabásban foglaltak szerint. A kilométerdíj az egy kilométerre megállapított díj és a megtett távolság szorzata.
+
+A vállalkozói díj elszámolásának alapja a SENDEE rendszer által az Eseti megrendelés Visszaigazolásakor kiszámított optimális útvonal szerinti távolság kilométerben.
+
+A vállalkozói díjat vagy annak számítási módját SENDEE bármikor jogosult egyoldalúan módosítani, amelyről köteles Ügyfelet – akár a SENDEE rendszeren keresztül – értesíteni. A díj módosítása nem érinti a módosítás hatályba lépését megelőzően létrejött Eseti szállítási szerződések vállalkozói díjának elszámolását. A díjmódosítás hatályba lépését követően a SENDEE rendszerben történő részvétel és Eseti megrendelés leadása a díjmódosítás Ügyfél által történt elfogadásának minősül.
+
+Felek a vállalkozói díjjal, továbbá az esetleges lemondás miatti bánatpénz, illetve az esetleges egyéb igények tekintetében hetente számolnak el egymással. SENDEE a tárgyhét során teljesített Eseti szállítási szerződések vonatkozásában őt megillető vállalkozói díjról a tárgyhetet követő legkésőbb második munkanapon – a SENDEE rendszerben rögzített adatok alapján kiállított – számlát küld az Ügyfél részére, amely számlának melléklete a vállalkozói díjnak a SENDEE rendszerben rögzített adatok alapján készített tételes elszámolása. A számlát a SENDEE rendszer elektronikus formában állítja ki és küldi meg az Ügyfél részére.
+
+A SENDEE rendszerben rögzített adatokat a felek hitelesnek fogadják el a teljesített szolgáltatások és az azok ellenértékeként megfizetendő vállalkozói díj tekintetében.
+
+Az Ügyfél a számlát annak kézhezvételét követő 3 (három) munkanapon belül köteles kiegyenlíteni. Amennyiben az Ügyfélnek a számlával kapcsolatosan bármilyen kifogása van, ezt a számla kézhezvételét követő 2 (kettő) munkanapon belül köteles jelezni SENDEE felé azzal, hogy a számla egyes tételei tekintetében bejelentett kifogás nem mentesíti az Ügyfelet a számla nem kifogásolt tételei szerinti vállalkozói díj megfizetésének kötelezettsége alól.
+
+Az Ügyfél a vállalkozói díjat banki átutalással köteles megfizetni a SENDEE számláján feltüntetett bankszámlára.
+
+# Felelősségkorlátozások, a kártérítési igények érvényesítése
+
+SENDEE kijelenti, hogy a www.sendee.hu weboldalon található, a szállítási szolgáltatásra vonatkozó bármely információ csak tájékoztatási célt szolgál, annak jogszabályi megfelelőségéért, hatályosságáért és teljességéért való felelősségét SENDEE kifejezetten kizárja.
+
+SENDEE a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 44. § (2) bekezdése alapján a hivatkozott törvény 44, § (1) és (3)-(8) bekezdésében, továbbá a 45-51. § rendelkezéseiben foglaltak helyett a Ptk. szerződésszegéssel okozott kárért való felelősség szabályainak alkalmazását köti ki, a jelen ÁSZF-ben foglalt korlátozásokkal. 
+
+SENDEE kifejezetten kizárja mindennemű felelősségét az Ügyfél által feladott csomag tartalma és csomagolása vonatkozásában (így minőség, mennyiség és a vonatkozó jogszabályoknak, általános vagy különös minőségi és hatósági előírásoknak való megfelelőség vonatkozásában), a Futár és a Futár által használt szállítóeszköz szállítási szolgáltatásra való megfelelősége körében, továbbá a Futár, mint a közúti közlekedésben résztvevő személy magatartása és magatartásának lehetséges következményei körében (így kifejezetten, de nem kizárólagosan a közlekedési szabályszegésekért, azok következményeiért, a közterületen történő parkolás feltételeinek megtartásáért és esetlegesen azért fizetendő díjak/pótdíjak teljesítéséért). 
+
+SENDEE-t a szállítási szolgáltatások tekintetében a csomag Futár által történt kézhezvételétől annak a címzett részére történő kiszolgáltatásáig felel az Ügyfél felé és kizárólag az alábbiak szerint korlátozott kártérítési felelősség terheli: 
+
+- a) amennyiben SENDEE a kézbesítésre határidőt vállalt, SENDEE a csomag esetleges késedelmes leszállítása esetén legfeljebb az adott Eseti szállítási szerződés tekintetében őt megillető vállalkozói díj erejéig tartozik kártérítési felelősséggel, kivéve, ha a kiszállítás határidőben való teljesítését elháríthatatlan küldő körülmények akadályozták, vagy a címzett nem volt elérhető. 
