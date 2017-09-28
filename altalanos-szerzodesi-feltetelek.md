@@ -212,3 +212,108 @@ SENDEE kifejezetten kizárja mindennemű felelősségét az Ügyfél által fela
 SENDEE-t a szállítási szolgáltatások tekintetében a csomag Futár által történt kézhezvételétől annak a címzett részére történő kiszolgáltatásáig felel az Ügyfél felé és kizárólag az alábbiak szerint korlátozott kártérítési felelősség terheli: 
 
 - a) amennyiben SENDEE a kézbesítésre határidőt vállalt, SENDEE a csomag esetleges késedelmes leszállítása esetén legfeljebb az adott Eseti szállítási szerződés tekintetében őt megillető vállalkozói díj erejéig tartozik kártérítési felelősséggel, kivéve, ha a kiszállítás határidőben való teljesítését elháríthatatlan küldő körülmények akadályozták, vagy a címzett nem volt elérhető. 
+- b) SENDEE a csomag tartalmának sérülése, teljes vagy részleges elveszése, megsemmisülése esetén a csomagban bekövetkezett tényleges kár összegének erejéig, legfeljebb azonban csomag Eseti megrendelésben rögzített értéke erejéig tartozik kártérítési felelősséggel. A csomag Eseti megrendelésben rögzített értéke nem haladhatja meg a csomag tartalmának valódi értékét. Amennyiben az érték nem valósan került feltüntetésre, SENDEE felelősségének felső határa az a) pontban megjelölt összeg. Részleges sérülés, illetve elvesztés vagy megsemmisülés esetén a kártérítés a sérülés, illetve elvesztés vagy megsemmisülés arányában áll fenn. 
+- c) SENDEE a szállítási szolgáltatások tekintetében a fentieken túlmenő, egyéb károkért (következményi károk, ideértve különösen az elmaradt haszon iránti igényeket), illetve a fenti összeghatárokat meghaladó károkért való felelősségét kifejezetten kizárja, függetlenül a károk személyi vagy anyagi jellegére. SENDEE nem kötelezhető sérelemdíj megfizetésére, valamint személyiségi jog megsértése miatti kártérítésre. 
+- d) SENDEE a címzettek felé semmilyen kártérítési felelősséggel nem tartozik, a címzettek felé kizárólag Ügyfél köteles helytállni.
+
+SENDEE mindemellett nem felel a csomag sérülése, teljes vagy részleges elveszése, megsemmisülése esetén, amennyiben az az alábbi okok valamelyikére vezethető vissza:
+
+- a) az Ügyfél, a címzett vagy egyéb jogosult átvevő magatartása,
+- b) az Ügyfél, a címzett, vagy egyéb jogosult átvevő nem megfelelő rendelkezéséből eredő, SENDEE-nek vagy Futárnak nem felróható kezelés,
+- c) a csomag tartalmának belső tulajdonsága vagy saját hibája,
+- d) a csomagolásnak a Futár által történt átvételekor észre nem vehető hiányossága,
+- e) az Ügyfél nem tájékoztatta SENDEE-t a csomag tartalmának kívülről fel nem ismerhető értékéről, vagy a csomag kézbesítéséhez fűződő különleges érdekéről,
+- f) az csomagolás nem felelt meg a csomag tartalmának, tulajdonságainak, jellegének, tömegének, halmazállapotának vagy a jelen ÁSZF rendelkezéseinek,
+- g) az Ügyfél elmulasztotta jelölni a csomag tartalmának sérülékeny, törékeny, vagy romlandó jellegét,
+- h) kizárólag a csomagolás sérült,
+- i) ha a csomag tartalma a csomagolás sértetlensége mellett sérült vagy hiányos,
+-j) ha a csomag sérülése, elveszése vagy megsemmisülése elháríthatatlan külső körülményre vezethető vissza.
+
+SENDEE-t a szállítási szolgáltatások tekintetében a Futár felé kizárólag az alábbiak szerint korlátozott kártérítési felelősség terheli:
+
+a) SENDEE – a jogszabályi keretek között – kizárja a felelősségét a Futárt a szállítási szolgáltatás teljesítése vonatkozásában érő bármely kár vonatkozásában, függetlenül annak személyi vagy vagyoni jellegére.
+- b) SENDEE semmilyen körülmények között nem felel a Futár által a szállítási szolgáltatások teljesítése során harmadik személynek okozott károkért. 
+- c) SENDEE Futár felé a szállítási szolgáltatások alapján esetlegesen fennálló kártérítési felelőssége nem haladhatja meg az adott Eseti szállítási szerződés tekintetében a Futárt megillető vállalkozói díj összegét.
+
+Ügyfél, illetve Futár a SENDEE rendszerben kizárólag saját felelősségére, saját vállalkozói kockázatvállalása alapján vesz részt. Ügyfél és Futár kötelesek SENDEE-t haladéktalanul mentesíteni minden olyan igény és követelés alól, amelyért – SENDEE fentiek szerinti felelősségkorlátozásait is figyelembe véve – Ügyfél vagy Futár köteles helytállni.
+
+A SENDEE rendszer SENDEE saját fejlesztése, tervezése és kivitelezése, amely elsőgenerációs üzleti és műszaki megoldásként működik. SENDEE a SENDEE applikáció és rendszer szolgáltatásait a mindenkor elérhető formájukban és tartalommal bocsájtja rendelkezésre, míg Ügyfél és Futár ennek megfelelően fogadja el azokat. SENDEE nem vállal biztosítékot vagy garanciát arra, hogy a SENDEE applikáció vagy a SENDEE rendszer hozzáférése vagy használata folyamatos, zavartalan vagy hibamentes, vagy abból szállítási szolgáltatási megbízásra vonatkozó igény ered. 
+
+SENDEE nem vállal továbbá garanciát a SENDEE rendszer vagy a SENDEE applikáció elérhetőségére, működésére vonatkozóan. Ügyfél és Futár tudomásul veszi és elfogadja, hogy a SENDEE rendszer vagy a SENDEE applikáció bármikor, bármilyen okból elérhetetlenné válhat. Továbbá, a SENDEE rendszer vagy a SENDEE applikáció esetében az internet és az elektronikus kommunikációs eszközök használatából eredő korlátozások, késések és egyéb problémák merülhetnek fel. SENDEE nem vonható felelősségre az ilyen problémákból eredő semmilyen késés, teljesítési hiba vagy egyéb kár vagy veszteség miatt.
+
+A kártérítési igényeket SENDEE részére írásban kell bejelenteni. A bejelentésben részletesen le kell írni a kár természetét és összegét. A kárt a bejelentésben ésszerű mértékben igazolni kell. A bejelentett kártérítési igényt a SENDEE a panaszkezelésre irányadó szabályok vizsgálja meg, és amennyiben a kártérítési igényt elismeri, ezt követő 8 (nyolc) napon belül intézkedik a kártérítés megfizetése iránt.
+
+A jelen ÁSZF-ben rögzített szolgáltatásokkal kapcsolatos kártérítési igények a SENDEE-vel szemben 6 (hat) hónap alatt évülnek el. A SENDEE követeléseinek elévülésére Ptk. rendelkezéseit kell alkalmazni.
+
+# Panaszkezelés
+
+Az Egyedi szállítási szerződések teljesítését az Ügyfelek elsősorban a SENDEE applikáción keresztül követhetik nyomon. Ezen túlmenő kérdésekkel kapcsolatosan a SENDEE a székhelyén ügyfélszolgálatot működtet, amely munkanapokon 09:00 és 16:00 óra között érhető el telefonon, illetve időkorlát nélkül e-mailben. A telefonos és e-mailes elérhetőség a www.sendee.hu weboldalon található. 
+
+A SENDEE által nyújtott szolgáltatásokkal kapcsolatos esetleges panaszokat az ügyfélszolgálaton kell bejelenteni telefonon vagy e-mailben, illetve egyébként írásban. Névtelen panaszok nem elfogadottak. Az ügyfélszolgálat gondoskodik a panaszok kivizsgálásáról és a szükséges intézkedések megtételéről tájékoztatja a panasztevőt, legkésőbb a bejelentést követő 30 (harminc) napon belül. A panaszkezelési határidő 30 (harminc) nappal meghosszabbítható.
+
+# Szellemi alkotások védelmére vonatkozó rendelkezések
+
+A SENDEE applikáció és a SENDEE rendszer, mint sajátos informatikai és üzleti megoldás SENDEE saját fejlesztése és tulajdona és SENDEE kizárólagosan rendelkezik ezek felett a szerzői és felhasználási jogok összességével és teljességével.
+
+Az Egyedi keretszerződés megkötésével és az egyedi azonosító rendelkezésre bocsátásával SENDEE térben, időben és felhasználási módok tekintetében is korlátozott felhasználási jogot enged a SENDEE applikáció és a SENDEE rendszer alkalmazására Ügyfél és Futár részére. A felhasználási jog kizárólag Magyarország területére terjed ki, az Egyedi keretszerződés hatálya alatt, az Ügyfél, illetve a Futár SENDEE rendszerben történő regisztrációjának idejére terjed ki, és kizárólag a SENDEE rendszer felhasználói alkalmazását foglalja magában. Ügyfél és Futár különösen nem jogosult a SENDEE applikációt vagy a SENDEE rendszert többszörözni, terjeszteni, átdolgozni vagy módosítani, a SENDEE applikáció architektúráját vagy forráskódját megismerni, visszafejteni, dekomplilálni, vagy szétszerelni, abban módosításokat végrehajtani, Ügyfél és Futár továbbá nem szerez adminisztrációs jogokat sem.
+
+A „SENDEE” név és logó a SENDEE kizárólagos szellemi tulajdonát képező, bejegyzett védjegy. A védjegy felhasználásához SENDEE előzetes, kifejezett írásbeli hozzájárulása szükséges, az abban foglalt tartalommal és terjedelemben. Kifejezett felhatalmazás hiányában tilos a védjegy egészének vagy bármely elemének használata, másolása vagy bármely formában történő jogosulatlan felhasználása. Az Ügyfél és Futár nem jeleníti meg sem SENDEE nevét, sem a „SENDEE” logót üzlethelyiségében, járművein vagy eszközein, illetve csomagolásán.
+
+# Az Egyedi keretszerződések és az Eseti szállítási szerződések hatálya és megszűnése
+
+Az Egyedi keretszerződést bármelyik fél jogosult bármikor indokolás nélkül, azonnali hatállyal megszüntetni, a másik félhez intézett írásbeli nyilatkozattal. Az Egyedi keretszerződés megszüntetésére irányuló egyoldalú nyilatkozatnak tekintendő a SENDEE rendszerben való regisztráció bármelyik fél által történő törlése. Az Egyedi keretszerződés megszüntetése nem érinti az Eseti szállítási szerződések hatályát, amelyek teljesítésére továbbira is a jelen ÁSZF szerint kötelesek a felek.
+
+Az Eseti szállítási szerződéseket a jelen ÁSZF szerint, az Eseti megrendelés Ügyfél által történt lemondásával, vagy a Visszaigazolás Futár által történt visszavonásával lehet megszüntetni. 
+
+Az Eseti szállítási szerződések megszüntetésével kapcsolatos elszámolásra a jelen ÁSZF-ben rögzített időszakos elszámolás keretében kerül sor. Az Egyedi keretszerződés megszüntetése esetén a felek az Egyedi keretszerződés megszűnését követő 15 (tizenöt) napon belül számolnak el egymással, a jelen ÁSZF-ben foglalt elszámolási szabályok szerint. 
+
+# Értesítések
+
+Felek bármely értesítést írásban, elsősorban elektronikus úton, így lehetőség szerint a SENDEE applikáción keresztül tesznek meg egymás felé, ennek bárminemű akadályoztatása esetében e-mail útján vagy a www.sendee.hu weboldalon keresztül tesznek meg. Bármely szóbeli értesítés csak akkor hatályos, amennyiben azt írásban is megerősítik.
+
+# Versenytilalmi rendelkezések
+
+Az Egyedi keretszerződés hatálya alatt Ügyfél nem jogosult Futárral közvetlenül a SENDEE által nyújtott szolgáltatásnak megfelelő szállítási szolgáltatás nyújtására vonatkozó megállapodást kötni, vagy Futárt ilyen feladatok ellátására bármilyen jogviszony keretében igénybe venni, továbbá nem törekedhet arra, hogy Futár a SENDEE-vel fennálló jogviszonyát megszüntesse. 
+
+Futár köteles haladéktalanul jelezni SENDEE felé, amennyiben Ügyfél a fenti pontban foglaltak szerinti együttműködésre vonatkozó ajánlatot tesz a részére.
+
+A jelen pontban foglalt tilalmak megszegése esetén SENDEE az Ügyfél, illetve a Futár regisztrációját törli a SENDEE rendszerből és az Egyedi keretszerződést megszünteti.
+
+# Egyéb rendelkezések
+
+## Titoktartás
+
+Felek kötelesek az Egyedi keretszerződés feltételeit, rendelkezéseit és az ahhoz kapcsolódó valamennyi információt bizalmasan, üzleti titokként kezelni. Üzleti titoknak minősülnek különösen a SENDEE-re és a SENDEE applikációra és a SENDEE rendszerre, mint szellemi termékre és üzleti megoldásra vonatkozó adatokat, az azonosítókat, a felhasználói adatokat, a szolgáltatási díjakat, a marketing és üzleti terveket, valamint azon üzleti, pénzügyi, műszaki, üzemeltetési és egyéb nem nyilvános információkat (akár írásban, akár szóban kerültek közlésre), amelyeket a közlő fél védettnek vagy bizalmasnak minősít, vagy amelyekről a másik fél indokoltan azt gondolhatja, hogy bizalmasan kezelendőek. Ügyfél és Futár kötelesek továbbá titokban tartani mindennemű információt és megoldást, amit a SENDEE-ről, a SENDEE applikációról vagy a SENDEE rendszerről bármilyen módon, formában vagy körülmények között a tudomásukra jut. A titoktartás feleket az Egyedi keretszerződés megszűnését követően is kötelezi korlátlan ideig.
+
+Ügyfél és Futár tudomásul veszik, hogy a SENDEE rendszer Magyarországon újdonságnak minősülő üzleti vállalkozás, így a SENDEE applikációról, a SENDEE rendszerről, vagy ezek működéséről való bárminemű információ harmadik felek részére történő átadása súlyosan sértheti SENDEE érdekeit, így SENDEE üzleti titkai megtartásáért Ügyfél és Futár mindenkor teljeskörű felelősséggel tartozik. A nyilvánosság felé bármilyen közlésre kizárólag SENDEE kifejezett előzetes hozzájárulásával kerülhet sor. 
+
+## Adatkezelés
+
+Az adatkezelésére a postai szolgáltatásokról szóló 2012. évi CLIX. törvény, illetve az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény mindenkor hatályos rendelkezései az irányadóak.
+
+A vonatkozó jogszabályi rendelkezésekre tekintettel SENDEE elsősorban az együttműködés érdekében szükséges adatokat rögzíti és kezeli az Ügyfél, a Futár, illetve a címzettek vonatkozásában, amely adatokból jogosult az Ügyfél, illetve a Futár részére átadni, illetve hozzáférhetővé tenni mindazon adatokat, amelyek az Eseti szállítási szerződések létrejöttéhez és teljesítéséhez szükségesek. Egyebekben SENDEE biztosítja, hogy az adatok illetéktelen harmadik személy részére nem hozzáférhetőek. Az adatkezelés célja továbbá a SENDEE által Ügyfél részére nyújtott szolgáltatások szerződésszerű nyújtása, a SENDEE rendszer működésének ellenőrzése, a rendszer felhasználói jogosultságainak ellenőrzése, valamint a visszaélések megakadályozása. 
+
+Futár tudomásul veszi továbbá, hogy a SENDEE rendszer működésének alapja a Futár útvonalának földrajzi helymeghatározás útján történő követése, amelyre tekintettel kifejezetten tudomásul veszi és elfogadja, hogy a SENDEE rendszerben aktív státusza esetén mind SENDEE, mint az Ügyfél hozzáférhet az aktuális tartózkodási helyéhez. A SENDEE és az Ügyfél azonban kizárólag az Eseti szállítási szerződések teljesítésével összefüggésben, annak érdekében jogosultak Futár helyadatait megismerni, és ezen adatokat nem jogosultak megőrizni, vagy illetéktelen harmadik személyek részére kiszolgáltatni vagy azokat harmadik személyek számára hozzáférhetővé tenni. Amennyiben Ügyfél ezen tilalmakat megszegi, teljeskörű felelősséggel tartozik az ebből eredi minden kárért.
+
+## Alkalmazandó jog, jogviták kezelése
+
+Felek az Egyedi keretszerződés és/vagy az ÁSZF létrejötte és rendelkezéseinek értelmezése, továbbá a jogviszonyból vagy annak teljesítéséből fakadó esetleges jogvitáikat elsősorban egyeztetéssel kötelesek rendezni. Amennyiben a békés vitarendezés nem vezet eredményre, úgy felek jogvitájában – hatáskörtől függően – a Budai Központi Kerületi Bíróság, illetve a Székesfehérvári Törvényszék jár el, ez utóbbi alól kivéve, ha egyébként az általános szabályok szerint a Fővárosi Törvényszék rendelkezik hatáskörrel és illetékességgel.
+
+## Részleges érvénytelenség
+
+Amennyiben az Egyedi keretszerződés vagy jelen ÁSZF bármely rendelkezése érvénytelen, hatálytalan vagy végrehajthatatlan, vagy azzá válik, illetve ha bármely rendelkezés teljesítése lehetetlenné válik, úgy az nem eredményezi az adott szerződés teljes érvénytelenségét, hatálytalanságát vagy végrehajthatatlanságát. Felek kötelesek az ilyen rendelkezést olyan megfelelő rendelkezéssel helyettesíteni, amely a legközelebb áll az eredeti szerződéses akaratukhoz.
+
+## Joglemondás kizárása
+
+Az Egyedi keretszerződés vagy jelen ÁSZF vagy bármely vonatkozó jogszabály rendelkezései szerint a SENDEE-t megillető valamely jog vagy jogorvoslat nem vagy késedelmes gyakorlása nem értelmezhető ezen jogról vagy jogorvoslatról való lemondásként, illetve valamely jog vagy jogorvoslat részleges vagy egyszeri gyakorlása nem meríti ki ezen jog vagy jogorvoslat további gyakorlásának lehetőségét. 
+
+## Irányadó nyelv
+
+A jelen ÁSZF, valamint az Egyedi keretszerződés egymással megegyező, magyar és angol nyelven íródott. A két nyelvi változat közötti bármely eltérés esetén a magyar nyelvű változat tekintendő irányadónak.
+
+## Az ÁSZF módosítása
+
+A jelen ÁSZF-et a SENDEE jogosult bármikor egyoldalúan módosítani. A módosítást a hatályba lépését megelőzően legalább 15 (tizenöt) nappal a SENDEE honlapján közzéteszi. A módosítás hatályba lépését követően a SENDEE rendszer használata a módosítás elfogadását jelenti. 
+
+A jelen ÁSZF legutolsó módosításának időpontja: 2017. szeptember 28.
+
