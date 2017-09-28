@@ -231,7 +231,7 @@ SENDEE mindemellett nem felel a csomag sérülése, teljes vagy részleges elves
 
 SENDEE-t a szállítási szolgáltatások tekintetében a Futár felé kizárólag az alábbiak szerint korlátozott kártérítési felelősség terheli:
 
-a) SENDEE – a jogszabályi keretek között – kizárja a felelősségét a Futárt a szállítási szolgáltatás teljesítése vonatkozásában érő bármely kár vonatkozásában, függetlenül annak személyi vagy vagyoni jellegére.
+- a) SENDEE – a jogszabályi keretek között – kizárja a felelősségét a Futárt a szállítási szolgáltatás teljesítése vonatkozásában érő bármely kár vonatkozásában, függetlenül annak személyi vagy vagyoni jellegére.
 - b) SENDEE semmilyen körülmények között nem felel a Futár által a szállítási szolgáltatások teljesítése során harmadik személynek okozott károkért. 
 - c) SENDEE Futár felé a szállítási szolgáltatások alapján esetlegesen fennálló kártérítési felelőssége nem haladhatja meg az adott Eseti szállítási szerződés tekintetében a Futárt megillető vállalkozói díj összegét.
 
