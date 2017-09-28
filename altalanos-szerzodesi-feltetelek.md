@@ -88,12 +88,12 @@ Az Ügyfél a SENDEE rendszerben aktív és passzív státusszal rendelkezhet. E
 
 Az Ügyfél az Eseti megrendelését a SENDEE applikáción keresztül rögzíti a SENDEE rendszerben. Az Eseti megrendelés rögzítése során az alábbi adatok megadása kötelező:
 
-- feladó neve és feladási cím
-- szállítandó csomag tartalma
-- a szállítás ideje
-- címzett neve és a szállítási cím (irányítószám, utcanév, házszám, emelet és ajtó feltüntetésével)
-- a csomag ellenértékének kiegyenlítésének módja (megrendelő által előre fizetve vagy a Futárnál utánvéttel)
-- a csomag értéke
+* feladó neve és feladási cím
+* szállítandó csomag tartalma
+* a szállítás ideje
+* címzett neve és a szállítási cím (irányítószám, utcanév, házszám, emelet és ajtó feltüntetésével)
+* a csomag ellenértékének kiegyenlítésének módja (megrendelő által előre fizetve vagy a Futárnál utánvéttel)
+* a csomag értéke
 
 Az Eseti megrendelés rögzítése a SENDEE rendszerben az Ügyfél ajánlatának minősül az Eseti szállítási szerződés létrehozására. Ennek megfelelően az Ügyfél az Eseti megrendelést mindaddig visszavonhatja, amíg azt a Futár a SENDEE rendszerben vissza nem igazolta. A Visszaigazolást követően az Eseti megrendelés a szállítási díj 50%-ának megfelelő összegű bánatpénz fizetési kötelezettség mellett vonható vissza.
 
@@ -103,16 +103,16 @@ Amennyiben az Eseti megrendelés keretében Ügyfél olyan csomagot kíván tov�
 
 Kizárt a szolgáltatásból, ezért nem adható fel, illetve szállításra nem vehető át az a csomag amely/amelynek:
 
-- birtoklását, szállítását jogszabály tiltja vagy engedélyhez köti,
-- gyúlékony, tűzveszélyes anyagokat tartalmaz,
-- sérti, sértheti, veszélyezteti vagy veszélyeztetheti az életet, egészséget, testi épséget vagy a környezetet,
-- veszélyes árunak minősülő tartalommal bír,
-- tartalma feltételesen szállítható küldemény, és nem felel meg az erre vonatkozó előírásoknak,
-- a csomagolása nem felel meg a jelen ÁSZF-ben rögzített előírásoknak,
-- címzése postafiókra vagy helyrajzi számra szól,
-- értéke meghaladja a 20.000,- Ft-ot,
-- mérete meghaladja az 50x50x50 cm-t
-- a tömege meghaladja az 5kg-ot.
+* birtoklását, szállítását jogszabály tiltja vagy engedélyhez köti,
+* gyúlékony, tűzveszélyes anyagokat tartalmaz,
+* sérti, sértheti, veszélyezteti vagy veszélyeztetheti az életet, egészséget, testi épséget vagy a környezetet,
+* veszélyes árunak minősülő tartalommal bír,
+* tartalma feltételesen szállítható küldemény, és nem felel meg az erre vonatkozó előírásoknak,
+* a csomagolása nem felel meg a jelen ÁSZF-ben rögzített előírásoknak,
+* címzése postafiókra vagy helyrajzi számra szól,
+* értéke meghaladja a 20.000,- Ft-ot,
+* mérete meghaladja az 50x50x50 cm-t
+* a tömege meghaladja az 5kg-ot.
 
 Az Ügyfél a címzést a csomagon úgy köteles elhelyezni, hogy az tisztán látható és pontosan olvasható legyen. A címzésben nem lehet javítás vagy bármilyen olyan körülmény, amely félreértésekre adhat okot. A címzést úgy kell rögzíteni a csomagon, hogy az szállítás közben ne eshessen, vagy ne válhasson le. Amennyiben a csomag címzése ezen feltételeknek nem felel meg, a csomag nem vehető át kiszállításra. 
 
@@ -166,8 +166,8 @@ A csomag címzett részére történő kézbesítését a Futár a SENDEE applik
 
 A Futár a csomagot kizárólag a SENDEE rendszerben rögzített címzett részére, vagy az alábbi személyek részére szolgáltatja ki:
 
-- ha a kézbesítési cím lakóhely, az ingatlan tulajdonosa vagy bérlője,
-- ha a kézbesítési cím munkahely, a munkahelyen küldemények átvételére feljogosított személy (pl. recepciós).
+* ha a kézbesítési cím lakóhely, az ingatlan tulajdonosa vagy bérlője,
+* ha a kézbesítési cím munkahely, a munkahelyen küldemények átvételére feljogosított személy (pl. recepciós).
 
 Amennyiben a címzettnek a csomag kiszolgáltatásakor mennyiségi vagy minőségi kifogása van, ezt a Futár a rögzíti a SENDEE rendszerben, a csomagot nem adja át a címzett részére, és a kiszállítás kézbesíthetetlennek minősül. A címzett kifogásait kizárólag az Ügyféllel köteles egyeztetni, a csomag Futár által történt kibontásának esetét ide nem értve a Futár, illetve SENDEE a csomag címzett által elvárt tartalmáért semmilyen felelősséggel nem tartozik.
 
@@ -211,29 +211,29 @@ SENDEE kifejezetten kizárja mindennemű felelősségét az Ügyfél által fela
 
 SENDEE-t a szállítási szolgáltatások tekintetében a csomag Futár által történt kézhezvételétől annak a címzett részére történő kiszolgáltatásáig felel az Ügyfél felé és kizárólag az alábbiak szerint korlátozott kártérítési felelősség terheli: 
 
-- a) amennyiben SENDEE a kézbesítésre határidőt vállalt, SENDEE a csomag esetleges késedelmes leszállítása esetén legfeljebb az adott Eseti szállítási szerződés tekintetében őt megillető vállalkozói díj erejéig tartozik kártérítési felelősséggel, kivéve, ha a kiszállítás határidőben való teljesítését elháríthatatlan küldő körülmények akadályozták, vagy a címzett nem volt elérhető. 
-- b) SENDEE a csomag tartalmának sérülése, teljes vagy részleges elveszése, megsemmisülése esetén a csomagban bekövetkezett tényleges kár összegének erejéig, legfeljebb azonban csomag Eseti megrendelésben rögzített értéke erejéig tartozik kártérítési felelősséggel. A csomag Eseti megrendelésben rögzített értéke nem haladhatja meg a csomag tartalmának valódi értékét. Amennyiben az érték nem valósan került feltüntetésre, SENDEE felelősségének felső határa az a) pontban megjelölt összeg. Részleges sérülés, illetve elvesztés vagy megsemmisülés esetén a kártérítés a sérülés, illetve elvesztés vagy megsemmisülés arányában áll fenn. 
-- c) SENDEE a szállítási szolgáltatások tekintetében a fentieken túlmenő, egyéb károkért (következményi károk, ideértve különösen az elmaradt haszon iránti igényeket), illetve a fenti összeghatárokat meghaladó károkért való felelősségét kifejezetten kizárja, függetlenül a károk személyi vagy anyagi jellegére. SENDEE nem kötelezhető sérelemdíj megfizetésére, valamint személyiségi jog megsértése miatti kártérítésre. 
-- d) SENDEE a címzettek felé semmilyen kártérítési felelősséggel nem tartozik, a címzettek felé kizárólag Ügyfél köteles helytállni.
+* a) amennyiben SENDEE a kézbesítésre határidőt vállalt, SENDEE a csomag esetleges késedelmes leszállítása esetén legfeljebb az adott Eseti szállítási szerződés tekintetében őt megillető vállalkozói díj erejéig tartozik kártérítési felelősséggel, kivéve, ha a kiszállítás határidőben való teljesítését elháríthatatlan küldő körülmények akadályozták, vagy a címzett nem volt elérhető. 
+* b) SENDEE a csomag tartalmának sérülése, teljes vagy részleges elveszése, megsemmisülése esetén a csomagban bekövetkezett tényleges kár összegének erejéig, legfeljebb azonban csomag Eseti megrendelésben rögzített értéke erejéig tartozik kártérítési felelősséggel. A csomag Eseti megrendelésben rögzített értéke nem haladhatja meg a csomag tartalmának valódi értékét. Amennyiben az érték nem valósan került feltüntetésre, SENDEE felelősségének felső határa az a) pontban megjelölt összeg. Részleges sérülés, illetve elvesztés vagy megsemmisülés esetén a kártérítés a sérülés, illetve elvesztés vagy megsemmisülés arányában áll fenn. 
+* c) SENDEE a szállítási szolgáltatások tekintetében a fentieken túlmenő, egyéb károkért (következményi károk, ideértve különösen az elmaradt haszon iránti igényeket), illetve a fenti összeghatárokat meghaladó károkért való felelősségét kifejezetten kizárja, függetlenül a károk személyi vagy anyagi jellegére. SENDEE nem kötelezhető sérelemdíj megfizetésére, valamint személyiségi jog megsértése miatti kártérítésre. 
+* d) SENDEE a címzettek felé semmilyen kártérítési felelősséggel nem tartozik, a címzettek felé kizárólag Ügyfél köteles helytállni.
 
 SENDEE mindemellett nem felel a csomag sérülése, teljes vagy részleges elveszése, megsemmisülése esetén, amennyiben az az alábbi okok valamelyikére vezethető vissza:
 
-- a) az Ügyfél, a címzett vagy egyéb jogosult átvevő magatartása,
-- b) az Ügyfél, a címzett, vagy egyéb jogosult átvevő nem megfelelő rendelkezéséből eredő, SENDEE-nek vagy Futárnak nem felróható kezelés,
-- c) a csomag tartalmának belső tulajdonsága vagy saját hibája,
-- d) a csomagolásnak a Futár által történt átvételekor észre nem vehető hiányossága,
-- e) az Ügyfél nem tájékoztatta SENDEE-t a csomag tartalmának kívülről fel nem ismerhető értékéről, vagy a csomag kézbesítéséhez fűződő különleges érdekéről,
-- f) az csomagolás nem felelt meg a csomag tartalmának, tulajdonságainak, jellegének, tömegének, halmazállapotának vagy a jelen ÁSZF rendelkezéseinek,
-- g) az Ügyfél elmulasztotta jelölni a csomag tartalmának sérülékeny, törékeny, vagy romlandó jellegét,
-- h) kizárólag a csomagolás sérült,
-- i) ha a csomag tartalma a csomagolás sértetlensége mellett sérült vagy hiányos,
--j) ha a csomag sérülése, elveszése vagy megsemmisülése elháríthatatlan külső körülményre vezethető vissza.
+* a) az Ügyfél, a címzett vagy egyéb jogosult átvevő magatartása,
+* b) az Ügyfél, a címzett, vagy egyéb jogosult átvevő nem megfelelő rendelkezéséből eredő, SENDEE-nek vagy Futárnak nem felróható kezelés,
+* c) a csomag tartalmának belső tulajdonsága vagy saját hibája,
+* d) a csomagolásnak a Futár által történt átvételekor észre nem vehető hiányossága,
+* e) az Ügyfél nem tájékoztatta SENDEE-t a csomag tartalmának kívülről fel nem ismerhető értékéről, vagy a csomag kézbesítéséhez fűződő különleges érdekéről,
+* f) az csomagolás nem felelt meg a csomag tartalmának, tulajdonságainak, jellegének, tömegének, halmazállapotának vagy a jelen ÁSZF rendelkezéseinek,
+* g) az Ügyfél elmulasztotta jelölni a csomag tartalmának sérülékeny, törékeny, vagy romlandó jellegét,
+* h) kizárólag a csomagolás sérült,
+* i) ha a csomag tartalma a csomagolás sértetlensége mellett sérült vagy hiányos,
+* j) ha a csomag sérülése, elveszése vagy megsemmisülése elháríthatatlan külső körülményre vezethető vissza.
 
 SENDEE-t a szállítási szolgáltatások tekintetében a Futár felé kizárólag az alábbiak szerint korlátozott kártérítési felelősség terheli:
 
-- a) SENDEE – a jogszabályi keretek között – kizárja a felelősségét a Futárt a szállítási szolgáltatás teljesítése vonatkozásában érő bármely kár vonatkozásában, függetlenül annak személyi vagy vagyoni jellegére.
-- b) SENDEE semmilyen körülmények között nem felel a Futár által a szállítási szolgáltatások teljesítése során harmadik személynek okozott károkért. 
-- c) SENDEE Futár felé a szállítási szolgáltatások alapján esetlegesen fennálló kártérítési felelőssége nem haladhatja meg az adott Eseti szállítási szerződés tekintetében a Futárt megillető vállalkozói díj összegét.
+* a) SENDEE – a jogszabályi keretek között – kizárja a felelősségét a Futárt a szállítási szolgáltatás teljesítése vonatkozásában érő bármely kár vonatkozásában, függetlenül annak személyi vagy vagyoni jellegére.
+* b) SENDEE semmilyen körülmények között nem felel a Futár által a szállítási szolgáltatások teljesítése során harmadik személynek okozott károkért. 
+* c) SENDEE Futár felé a szállítási szolgáltatások alapján esetlegesen fennálló kártérítési felelőssége nem haladhatja meg az adott Eseti szállítási szerződés tekintetében a Futárt megillető vállalkozói díj összegét.
 
 Ügyfél, illetve Futár a SENDEE rendszerben kizárólag saját felelősségére, saját vállalkozói kockázatvállalása alapján vesz részt. Ügyfél és Futár kötelesek SENDEE-t haladéktalanul mentesíteni minden olyan igény és követelés alól, amelyért – SENDEE fentiek szerinti felelősségkorlátozásait is figyelembe véve – Ügyfél vagy Futár köteles helytállni.
 
