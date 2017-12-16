@@ -1,13 +1,15 @@
 # A jelen ÁSZF hatálya
 
-Markdown | Less
---- | ---
+<div class="short">
+Itt olvashatod a Sendee használatával kapcsolatos jogaidat és kötelezettségeidet. Amit ezen az oldalon nem találsz, azt a veled kötött szerződésben és/vagy a hatályos törvények között keresd!
+</div>
+<div class="long">
 Jelen általános szerződési feltételek (a továbbiakban: ÁSZF) a SENDEE Project Korlátolt Felelősségű Társaság (székhelye: 1051 Budapest, Október 6. utca 19., cégjegyzékszáma: Cg. 01-09-923610, adószáma: 1486118-2-41) által kifejlesztett „SENDEE” applikáció alkalmazásával igénybe vett futárposta-szolgáltatások nyújtása, illetve igénybevétele tárgyában megkötött szerződések tekintetében szabályozza a felek jogait és kötelezettségeit. 
 
 A jelen ÁSZF a felek által megkötött Egyedi keretszerződések elválaszthatatlan részét képezik, valamennyi rendelkezése irányadó felek teljes szerződéses jogviszonyára kivéve, ha a felek az egyedi keretszerződésben a jelen ÁSZFtől eltérő rendelkezésekben állapodnak meg. Az Ügyfél általános szerződési feltételei nem válnak az Egyedi keretszerződés részévé.
 
-A jelen ÁSZF-ben nem szabályozott kérdésekben az Egyedi keretszerződés, az Eseti szállítási szerződés, továbbá a postai szolgáltatásokról szóló 2012. évi CLIX. törvény, valamint a 335/2012. (XII.4.) Korm. rendelet, és a polgári törvénykönyvről szóló 2013. évi V. törvény (Ptk.) rendelkezései irányadóak. | `renders`
-1 | 2
+A jelen ÁSZF-ben nem szabályozott kérdésekben az Egyedi keretszerződés, az Eseti szállítási szerződés, továbbá a postai szolgáltatásokról szóló 2012. évi CLIX. törvény, valamint a 335/2012. (XII.4.) Korm. rendelet, és a polgári törvénykönyvről szóló 2013. évi V. törvény (Ptk.) rendelkezései irányadóak.
+</div>
 
 # Fogalom meghatározások
 
