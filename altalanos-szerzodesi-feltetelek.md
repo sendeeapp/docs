@@ -149,7 +149,7 @@ A Visszaigazolás SENDEE rendszerben történt megjelenését követően az Eset
 
 A Visszaigazolás Futár által történő visszavonására nincs lehetőség. Amennyiben Futár az Eseti szállítási szerződés teljesítése tekintetében elháríthatatlan külső körülmény által akadályoztatva van, ezt köteles SENDEE részére haladéktalanul jelezni, aki jogosult a Futár Visszaigazolását törölni és az Eseti megrendelést más Futár számára elérhetővé tenni.
 
-## Az csomag feladása
+## A csomag feladása
 
 Az Ügyfél a szállítandó csomagot közvetlenül az Eseti megrendelést visszaigazoló Futár részére köteles átadni. Az Ügyfél köteles meggyőződni arról, hogy a Futár azonos a Visszaigazolást rögzítő Futárral. A csomag átvételét a Futár a SENDEE applikációban annak megtörténtekor rögzíti.
 
